@@ -1,0 +1,2290 @@
+EMENTÁRIO DO CURSO DE DSM DA FATEC JACAREÍ 
+ 
+Primeiro Semestre 
+ 
+Período  Sigla Relação de Componentes Modalidade Aulas Semestrais  Total de 
+Aulas 
+Semestrais Sala de Aula  Laboratório  Remota - 
+Síncrona 1o semestre  IAL -
+010  Algoritmos e Lógica de 
+Programação Presencial - 80 - 80 
+ISW -
+028  Desenvolvimento Web I  Presencial  - 80 - 80 
+ISW -
+031  Design Digital Presencial - 80 - 80 
+IES -
+011  Engenharia de Software I Presencial 40 40 - 80 
+IBD -
+014  Modelagem de Banco de Dados Presencial - 80 - 80 
+ISO -
+011  Sistemas Operacionais e Redes de 
+Comp. Presencial - 80 - 80 
+Total de aulas semestrais 40 440 - 480  
+ 
+Competências Socioemocionais desenvolvidas transver salmente em todos os 
+componentes deste semestre  
+• Demostrar capacidade de resolver problemas complexo s e propor soluções criativas e 
+inovadoras.  
+• Desenvolver a visão sistêmica, identificando soluç ões, respeitando aspetos culturais, 
+éticos, ambientais e sociais no âmbito local, regio nal e internacional. 
+• Evidenciar o uso de pensamento crítico em situaçõe s adversas. 
+• Empreender ações inovadoras, analisando criticamen te a organização, antecipando e 
+promovendo transformações. 
+• Administrar conflitos quando necessário, estabelec er relações e propor um ambiente 
+colaborativo, incentivando o trabalho em equipe. 
+• Atuar de forma autônoma na realização de atividade s profissionais e na execução de 
+projetos. 
+• Elaborar, gerenciar e apoiar projetos identificand o oportunidades e avaliando os riscos 
+inerentes. 
+• Comunicar-se, tanto na língua materna como em líng ua estrangeira 
+ 
+ 
+IAL-010 – ALGORITMOS E LÓGICA DE PROGRAMAÇÃO – PRES ENCIAL - 
+80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Distinguir e empregar as diversas metodologias e c onceitos de desenvolvimento de software 
+nos projetos para atender as necessidades e resolve r problemas, aplicando conceitos de 
+lógica de programação. 
+ 
+Objetivos de Aprendizagem:  
+• Identificar as etapas necessárias para elaboração de um algoritmo e de 
+um programa de computador definindo as diferenças e ntre eles. 
+• Identificar as principais estruturas para construç ão de algoritmos voltados 
+para a programação de computadores estabelecendo re lações entre 
+problemas com estruturas semelhantes. 
+• Construir algoritmos utilizando técnicas de progra mação estruturada e 
+modular apresentando as características fundamentai s da linguagem de 
+programação.  
+• Utilizar aplicações ou plataformas para versioname nto e controle da 
+programação. 
+Ementa : Princípios de sistemas computacionais, representa ção binária, 
+memória e endereçamento, compiladores. Tipos de dad os básicos e 
+representações gráficas dos principais comandos nas  linguagens procedurais. 
+Conceitos básicos sobre algoritmos e métodos para s ua construção. Tipos de 
+dados e variáveis. Operadores lógicos. Estruturas f undamentais de programas: 
+sequencial, condicional e com repetição. Estilo de codificação, indentação, 
+legibilidade, comentários. Testes de mesa e unitári os.  Funções. Variáveis 
+compostas homogêneas: vetores e matrizes. Conceitos  de controle de versão e 
+gestão de código fonte; Criação de repositórios loc ais e remotos; Envio (Commit) 
+e resgate de versões, Checkin e Checkout. 
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Coding Dojo. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+CORMEN, T. H. et al. Algoritmos . Rio de Janeiro: Campus, 2012. 
+MANZANO, J. A. N. G; OLIVEIRA, J. F. Algoritmos: Lógica para 
+desenvolvimento de programação de computadores. São  Paulo: Érica, 2009. 
+MEDINA, M., FERTIG, C. Algoritmos e Programação: Teoria e Prática. São 
+Paulo: Novatec, 2006 
+Bibliografia Complementar:   
+DEITEL, H; DEITEL, P. C: Como programar . 6 ed. São Paulo: Pearson, 2011.  
+BIANCHI, F. et al. Algoritmos e programação de computadores . Rio de 
+Janeiro: Campus, 2012.  
+SOUZA, M. A. F. et al. Algoritmos e Lógica de Programação . São Paulo: 
+Cengage Learning, 2019. 
+MENEZES, O. Introdução à Programação Com Python: Algoritmos e Lógica 
+De Programação para iniciantes . 3 ed. São Paulo: Novatec. 2019. 
+SILVERMAN, R. E.  Git: Guia prático.  São Paulo: Novatec, 2019.  
+ 
+ISW-028 – DESENVOLVIMENTO WEB I – PRESENCIAL - 80 A ulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Analisar e corrigir, scripts maliciosos, Cross-Site-Scripting  buscando um padrão de 
+segurança recomendado no desenvolvimento das aplica ções. 
+• Construir páginas web utilizando linguagem de marc ação de acordo com a necessidade do 
+segmento ou projeto buscando recursos que sejam ada ptados aos mais diversos 
+dispositivos. 
+ 
+Objetivos de Aprendizagem:  
+• Definir as etapas necessárias para elaboração de p áginas para internet 
+identificando suas principais estruturas. Criar fol has de estilo que atendam 
+requisitos funcionais e não funcionais do projeto. 
+• Utilizar linguagem de marcação de hipertexto para definir a estrutura, 
+aplicar folhas de estilo buscando a aparência e apr esentação e a 
+linguagem script para a funcionalidade e comportame nto das páginas 
+web.  
+• Empregar frameworks de desenvolvimento front-end.  
+• Empregar o versionamento na elaboração dos códigos . 
+Ementa : Linguagem de marcação de hipertexto para estrutur ação de conteúdo. 
+Tecnologias para estilização de conteúdo.  Esquemas  de posicionamento. 
+Construção de layout . Framework para desenvolvimento responsivo e págin a 
+única. Noções de linguagens de script aplicadas à i nteratividade do usuário com 
+Front-End. Processamento script lado cliente/servid or. Biblioteca Javascript 
+cross-browser . Sistemas de gestão de configuração de código-font e. Utilização 
+de servidores de desenvolvimento para implantação l ocal de sistemas web.  
+Controle de versionamento. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+MEYER, E. S. CSS - técnicas profissionais para um layout moderno . Porto 
+Alegre: Bookman, 2011. 
+POWERS, S. Aprendendo JavaScript . São Paulo: Novatec, 2010. 
+PETRUCELLI, E. E. HTML5, CSS e JavaScript . Brasília: NT Editora, 2019. 
+DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta 
+Books. 2016. 
+SILVERMAN, R.E. Git: Guia prático. São Paulo: Novatec, 2019. 
+GRINBERG, M. Desenvolvimento web com Flask: Desenvolvendo 
+aplicações web com Python. São Paulo: Novatec, 2019 . 
+Bibliografia Complementar:   
+GOMES, A. L. XHTML/CSS : criação de páginas web (Informática). São Paulo: 
+Editora Senac, 2019. 
+QUIERELLI, D. A. Criando sites com HTML-CSS-PHP: Construindo um projeto 
+- Iniciante . Joinville: Clube dos Autores, 2012. 
+TITTEL, E., NOBLE, J. HTML, XHTML e CSS Para Leigos . Rio de Janeiro: Alta 
+Books, 2014 
+Referência :  
+Apache Http Server Documentation. Disponível em 
+https://httpd.apache.org/docs/  Acesso em: 22 de setembro de 2020. 
+ 
+ISW-031 – DESIGN DIGITAL– PRESENCIAL - 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver soluções de software empregando concei tos e técnicas de Design Digital e 
+Visual. 
+• Empregar as melhores práticas da Arquitetura da In formação no desenvolvimento de 
+software para Dispositivos Móveis, Web e Desktop.   
+ 
+Objetivos de Aprendizagem:  
+• Definir a conceituação e fundamentação do design d a informação, 
+estabelecer princípios do design e sua estrutura na  organização visual em 
+documentos gráficos e interfaces, utilizando planej amento visual no 
+desenvolvimento de layouts com a prototipação de ba ixa e alta fidelidade 
+modelando a navegação de acordo com regras de usabi lidade.  
+• Identificar técnicas para modelagem e representaçã o de tipografias e de 
+objetos geométricos utilizados em aplicações.  
+• Aplicar folhas de estilo que atendam requisitos fu ncionais e não funcionais 
+do projeto. 
+• Utilizar softwares de edição de imagem na segmenta ção e aplicação de 
+filtros e transformações buscando técnicas de remoç ão de elementos 
+ocultos, iluminação e aplicação de texturas e cores . 
+Ementa : Conceitos de Design Gráfico aplicado à construção  de aplicativos e 
+sites. Softwares para edição e tratamento de imagen s estáticas e em movimento. 
+Teoria das Cores. Composição. Tipografia. Definição  de formatos, resolução, 
+tamanho de imagens. Recursos para a criação/manipul ação de imagens para a 
+construção de botões, banners, logomarca. Direitos Autorais e Direitos de Uso 
+de elementos visuais (imagem, desenho, animação, ví deo, áudio, entre outros.). 
+Planejamento visual e layout.  Desenvolvimento do l ayout. Grid (grade) de meios 
+impressos e digitais. 
+Metodologia proposta:   Aulas expositivas dialogadas. Aprendizagem Basead a 
+em Projetos/Problema. Atividades em pares/grupos. S ala de aula invertida. 
+Design Thinking . 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares. Validação do projeto para inclu são no Portfólio Digital do aluno.  
+Bibliografia Básica:   
+DONDIS, D. A. Sintaxe da linguagem visual .  3 ed. São Paulo: Martins Fontes, 
+2015. 
+GOMES FILHO, J. Gestalt do Objeto: sistema de leitura visual da forma. 9 ed. 
+São Paulo. Escrituras, 2013. 
+NILSEN, J; LORANGER, H. Usabilidade na Web: projetando websites com 
+qualidade.  Rio de Janeiro: Elsevier, 2007. 
+Bibliografia Complementar:   
+PRIMO, L. Estudo Dirigido de Coreldraw X5 Em Português . São Paulo: Érica, 
+2010. 
+PRIMO, L. Estudo Dirigido de Adobe Photoshop Cs5 Em Português - Para 
+Windows.  São Paulo: Érica, 2011. 
+ 
+IES-011 – ENGENHARIA DE SOFTWARE I – PRESENCIAL - 8 0 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Especificar os requisitos, projetar e documentar s oluções de software baseadas no 
+conhecimento apropriado de teorias, modelos e técni cas, observando as necessidades dos 
+projetos. 
+• Modelar e implantar processos de negócio, propor s oluções de TI a fim de aumentar a 
+competitividade das organizações. 
+ 
+Objetivos de Aprendizagem:  
+• Identificar as características de Sistemas de Info rmação, seus tipos, 
+viabilidade técnica, características de custo, valo r e qualidade da 
+informação.  
+• Explicar as características de um sistema, seus   componentes e 
+relacionamentos.  
+• Compreender o ciclo de vida utilizando concepções do modelo cascata.  
+• Utilizar conceitos da UML na análise de requisitos  e na elaboração de 
+diagramas focando na modelagem de sistemas. 
+Ementa : Introdução à Análise de Sistemas. Modelos de Cicl o de Vida de 
+Software. Modelos de Processos de Desenvolvimento d e Software (Modelo em 
+Cascata, Espiral e Prototipagem). Definição e class ificação de Requisitos de 
+Software (funcionais e não funcionais). Técnicas de  Levantamento de 
+Requisitos. Modelo de Negócios aplicado ao levantam ento de Requisitos 
+(Canvas). Estudo de Viabilidade. Técnicas de docume ntação. Metodologias para 
+desenvolvimento de sistemas.  
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Sala de Aula Invertida. Estudo de Caso Real. Nesta 
+disciplina o professor é responsável por desenvolve r um projeto Interdisciplinar 
+integrando as disciplinas de Desenvolvimento Web I e Design Digital, seguindo 
+o Manual de Projetos Interdisciplinares expedido pe la CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. Análise da doc umentação do projeto 
+interdisciplinar. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares. Validação do projeto para inclu são no Portfólio Digital do aluno.  
+Bibliografia Básica: 
+BEZERRA, Eduardo. Princípios de Análise e Projeto de Sistemas com UML . 
+3 ed. Rio de Janeiro: Elsevier, 2015. 
+PRESSMAN, Roger; MAXIM, Bruce. Engenharia de Software . 8 ed. São Paulo: 
+McGraw Hill Brasil, 2016. 
+SOMMERVILLE, Ian. Engenharia De Software . 10 ed. São Paulo: Pearson 
+Brasil, 2019. 
+Bibliografia Complementar: 
+LARMAN, Craig. Utilizando UML e padrões . 3 ed. Porto Alegre: Bookman, 
+2007. 
+REZENDE, Denis Alcides. Engenharia de software e sistemas de informação . 
+3 ed. Rio de Janeiro: Brasport, 2005. 
+WASLAWICK Raul. Análise e Projeto de Sistemas de Informação Orienta dos 
+a Objetos.  2 ed. Rio de Janeiro: Elsevier, 2010. 
+ 
+IBD-014 – MODELAGEM DE BANCO DE DADOS – PRESENCIAL - 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e 
+implementação a fim de garantir a qualidade dos dad os. 
+ 
+Objetivos de Aprendizagem:  
+• Identificar e utilizar os conceitos de um sistema de Banco de Dados, 
+modelo conceitual.  
+• Utilizar ferramentas CASE e linguagem SQL para def inição e manipulação 
+de dados.   
+• Compreender a normalização de Banco de Dados.  
+• Implementar modelo conceitual e relacional.  
+• Classificar um Sistema de Gerenciamento de Banco d e Dados. 
+Ementa : Evolução dos sistemas de informação e dos bancos de dados. Modelos 
+de dados: Redes, Hierárquicos, Relacional, Orientad o a objetos e Objeto-
+relacional. Conceitos de Base de Dados. Objetivos d os bancos de dados. Estudo 
+dos modelos de dados Conceitual, lógico e físico. P rojeto de Banco de Dados 
+Relacional com uso da abordagem Entidade-Relacionam ento. Álgebra 
+Relacional. Introdução à Linguagem de declaração e manipulação de dados. 
+Teoria relacional: dependências funcionais e formas  normais (1ª, 2ª e 3ª forma 
+normal). Conceitos de Sistemas Gerenciadores de Ban co de Dados. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação, Estudo de Caso Rea l. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+DATE, C. J. Projeto de Banco de Dados e Teoria Relacional: Formas Normais 
+e Tudo o Mais . São Paulo: Novatec, 2015. 
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados:  Fundamentos e 
+Aplicações. 7 ed. São Paulo: Pearson, 2019. 
+HEUSER, C. A. Projeto de Banco de Dados . 6 ed. Porto Alegre: Bookman, 
+2010. 
+Bibliografia Complementar:   
+HARRINGTON, J. L. Projeto de Bancos de Dados Relacionais: Teoria e 
+Prática. São Paulo: Campus, 2002. 
+MACHADO, F. N. R., Banco de dados: projeto e implementação. 2 ed. São 
+Paulo: Érica, 2008.  
+NADEAU, Tom et al. Projeto e Modelagem de Banco de Dados.  5 ed. Rio de 
+Janeiro: Elsevier Brasil, 2013. 
+SILBERSCHATZ, Abraham; SUNDARSHAN, S.; KORTH, Henry  F. Sistema de 
+banco de dados.  Rio de Janeiro: Elsevier Brasil, 2016. 
+ 
+ISO-011 – SISTEMAS OPERACIONAIS E REDES DE COMPUTAD ORES – 
+PRESENCIAL – 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empregar  fundamentos  de Sistemas Operacionais no desenvolvimento de soft ware. 
+• Implantar sistemas nas diversas infraestruturas de  Redes de Computadores, buscando a 
+melhor performance.  
+ 
+Objetivos de Aprendizagem:  
+• Compreender sobre as características do gerenciame nto de 
+processos, arquivos, memória, entrada e saída de um  Sistema 
+Operacional. 
+• Definir os conceitos de Internet, Intranet, Extran et e arquitetura Cliente 
+- Servidor.  
+• Identificar modelos de referência de arquitetura d e redes e seus 
+protocolos de comunicação buscando a aplicação dess es conceitos no 
+desenvolvimento de sistemas. 
+Ementa : Visão Geral. Introdução à Sistemas Operacionais. Conceitos Básicos 
+de Hardware e Software. Concorrência em Sistemas Op eracionais. Estrutura do 
+Sistema Operacional. Processos e Threads. Sincroniz ação e Comunicação entre 
+Processos. Gerencia do Processador. Gerencia de Mem ória e Memória Virtual. 
+Sistemas Operacionais distribuídos. Sistemas Operac ionais de Rede. Protocolos 
+de comunicação.  
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Estudo de Caso Real. Para o con teúdo de Redes de 
+Computadores atividades práticas baseadas em situaç ões reais.  
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos e Trabalhos In terdisciplinares. 
+Bibliografia Básica:   
+MACHADO, F. B.; MAIA, L. P. Arquitetura de Sistemas Operacionais . 5ed.  
+São Paulo: LTC, 2013. 
+TANENBAUM, A. S.; BOS, H. Sistemas Operacionais Modernos . 4 ed. São 
+Paulo: Pearson, 2016. 
+TANENBAUM, A. S.; STEEN, M. V. Sistemas Distribuídos: princípios e 
+paradigmas. 2 ed. São Paulo: Pearson, 2007. 
+Bibliografia Complementar:   
+COULOURIS, George F. et al. Sistemas distribuídos: conceitos e projeto. 4 ed. 
+Porto Alegre: Bookman, 2007. 
+SILBERSCHATZ, A.; GALVIN, P. B.; GAGNE, G. Fundamentos de Sistemas 
+Operacionais . 9 ed.  São Paulo: LTC 2017. 
+ 
+Segundo Semestre 
+ 
+Período  Sigla Relação de Componentes Modalidade Aulas Semestrais  Total de 
+Aulas 
+Semestrais Sala de Aula  Laboratório  Remota - 
+Síncrona 2o semestre  ILP-036  Técnicas de Programação I  Presencial - 80 - 80 
+ISW-029  Desenvolvimento Web II Presencial  - 80 - 80 
+MAT -
+019  Matemática para computação Presencial 80 - - 80 
+IES-012   Engenharia de Software II Presencial 40 40 - 80 
+IBD-015  Banco de Dados – Relacional Presencial - 80 - 80 
+IED-005  Estrutura de Dados Presencial - 80 - 80 
+Total de aulas semestrais 120 360  - 480 
+ 
+Competências Socioemocionais desenvolvidas transver salmente em todos os 
+componentes deste semestre  
+• Demostrar capacidade de resolver problemas complexo s e propor soluções criativas e 
+inovadoras.  
+• Desenvolver a visão sistêmica, identificando soluç ões, respeitando aspetos culturais, 
+éticos, ambientais e sociais no âmbito local, regio nal e internacional. 
+• Evidenciar o uso de pensamento crítico em situaçõe s adversas. 
+• Empreender ações inovadoras, analisando criticamen te a organização, antecipando e 
+promovendo transformações. 
+• Administrar conflitos quando necessário, estabelec er relações e propor um ambiente 
+colaborativo, incentivando o trabalho em equipe. 
+• Atuar de forma autônoma na realização de atividade s profissionais e na execução de 
+projetos. 
+• Elaborar, gerenciar e apoiar projetos identificand o oportunidades e avaliando os riscos 
+inerentes. 
+• Comunicar-se, tanto na língua materna como em líng ua estrangeira. 
+ 
+ 
+ILP-036 – TÉCNICAS DE PROGRAMAÇÃO I – PRESENCIAL - 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Utilizar linguagens de programação orientada a obj etos e raciocínio lógico adequados para 
+resolução de situações problema e ou desenvolviment o de projetos diversos. 
+ 
+Objetivos de Aprendizagem:  
+• Utilizar linguagem de programação, difundida no me rcado, para 
+codificação aplicando os conceitos de orientação a objetos.  
+• Abstração, encapsulamento, herança, polimorfismo. Relacionamento 
+entre classes.  
+• Compreender e programar Tratamento de exceções.  
+• Criar Interfaces gráficas com usuário.                                        
+• Aplicar conceitos da Arquitetura Model-View-Controller .  
+• Empregar frameworks de desenvolvimento front-end e  back-end.  
+• Aplicar versionamento e documentação da aplicação.  
+Ementa:  Conceitos de orientação a objetos: Classes, Objeto , Encapsulamento, 
+Herança, Polimorfismo. Princípios de padrões de pro jeto. Declaração de Classes 
+e Objetos. Classe Abstrata. Métodos. Sobrecarga de Métodos. Conceitos de 
+Herança múltipla. Modificadores de acesso. Construt ores. Manipulação de 
+Exceções. Conceitos e aplicações de arquitetura em Camadas. Uso de Interface 
+Gráfica. Teste de Software. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Coding Dojo. 
+Instrumentos de avaliação :   
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+FURGERI, S. Programação orientada a objetos: Conceitos e técnicas. São 
+Paulo: Erica. 2015. 
+NASCIMENTO JR. O.S. Introdução à Orientação a Objetos com C++ e 
+Python: Uma abordagem prática.  São Paulo: Novatec, 2017    
+SIERRA, K. BATES, B. Use a Cabeça! Java . 2 ed. São Paulo: O’Rilly, 2005. 
+Bibliografia Complementar:   
+BHARGAVA, A. Y. Entendendo Algoritmos: Um guia ilustrado para 
+programadores e outros curiosos. São Paulo: Novatec ,2019. 
+KOPEC, D. Problemas Clássicos de Ciência da Computação com Py thon.  
+São Paulo: Novatec,2019.  
+MARTIN, Robert C. Código Limpo: Habilidades Práticas do Agile Software. Rio 
+de Janeiro: Alta Books, 2012. 
+RAMALHO, L. Python Fluente: Programação Clara, Concisa e Eficaz. São 
+Paulo: Novatec,2015. 
+SCHILDT, H. J ava para Iniciantes: Crie, Compile e Execute Programas Java 
+Rapidamente . 6 ed. Porto Alegre: Bookman: 2015. 
+SILVERMAN, R. E.  Git: guia prático.  São Paulo: Novatec, 2019.  
+ 
+ISW-029 – DESENVOLVIMENTO WEB II – PRESENCIAL - 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Aplicar linguagens de programação back-end e racio cínio lógico adequados para resolução 
+de situações problema e ou desenvolvimento de proje tos diversos. 
+• Desenvolver softwares baseados em metodologias e t écnicas de programação que visam a 
+segurança das aplicações e do usuário. 
+• Dimensionar e estruturar os recursos necessários p ara implantação de um site/ e-commerce  
+entre outros projetos. 
+ 
+Objetivos de Aprendizagem:  
+• Empregar Linguagens Back-End de Programação para d esenvolvimento 
+de aplicações web.  
+• Integrar essas linguagens com as linguagens de des envolvimento front-
+end.  
+• Construir web sites dinâmicos baseados em novas te cnologias e aplicar 
+conceitos da Arquitetura Model-View-Controller.  
+• Utilizar camada de acesso a banco de dados.  
+• Empregar frameworks de desenvolvimento front-end e  back-end.  
+• Consumir APIs para interagir com sistemas externos .  
+• Compreender o funcionamento básico de um servidor de Internet.  
+• Aplicar versionamento e documentação da aplicação.  
+Ementa : Relação entre arquitetura de dados, arquitetura d e informação em um 
+sistema web e arquitetura de sistema. Persistência de dados em sistemas web. 
+Ambientes virtuais e sistemas de construção de soft ware aplicados ao 
+desenvolvimento web no que tange ao isolamento do a mbiente de 
+desenvolvimento, obtenção de dependências e automaç ão de diferentes tarefas 
+presentes no ciclo de desenvolvimento. Tecnologias de persistência de dados 
+incluindo frameworks para mapeamento objeto-relacio nal aplicadas ao 
+desenvolvimento de sistemas web. Sistemas web com p ersistência de dados e 
+chamadas assíncronas. Páginas feitas pelo Back-end.  Coockies. Escopos de 
+Memória (Aplicação, Sessão).  Criação de aplicações  Web que consumam APIs 
+públicas e abertas. Hospedagem do sistema. Controle  de versionamento. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Programação em pares, Gamificaç ão. Trabalhos 
+Interdisciplinares, seguindo o Manual de Projetos I nterdisciplinares expedido 
+pela CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação. Trabalhos Interdisciplinares e Validaç ão do projeto para inclusão 
+no Portfólio Digital do aluno.  
+Bibliografia Básica:   
+ALVES, W. P. Java para web: Desenvolvimento de aplicações. São Paulo: Érica. 
+2015 
+ANDRADE S. S.; Aprenda Java Ee 8: Aplicações Para Web com Spring Mvc e 
+Hibernate. São Paulo: SENAI-SP, 2018. 
+BEAZLEY D.; JONES, B.K. Python Cookbook : Receitas para dominar Python. 
+3 ed. São Paulo: Novatec, 2019. 
+CASTRO, E., HYSLOP, B. HTML5 e CSS3: Guia Prático e Visual. Rio de Janeiro: 
+Alta Books. 2013. 
+CLARK, R., MURPHY, C., STUDHOME, O. Introdução ao HTML5 e CSS3.  Rio 
+de Janeiro: Alta Books. 2014. 
+DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta 
+Books. 2016 
+KENNETH R., K.; SCHLUSSER, T. O Guia do Mochileiro Python: Melhores 
+Práticas Para Desenvolvimento. São Paulo: Novatec, 2017. 
+PEREIRA, C. R. Construindo APIs REST com Node.js.  São Paulo: Casa do 
+Código, 2016. 
+Bibliografia Complementar:   
+SMITH, B. JSON Básico: Conheça o formato de dados preferido da web . São 
+Paulo: Novatec, 2020.  
+MACIEL, F. M. B. Python e Django: Desenvolvimento web Moderno e ágil. Rio 
+de Janeiro: Alta Books. 2020.   
+MELÉ, A. Aprenda Django 3 com Exemplos : Crie Aplicações web Profissionais 
+em Python, Começando do Zero. São Paulo: Novatec, 2 020. 
+SOUZA, N. Bootstrap 4 : Conheça a biblioteca front-end mais utilizada no 
+mundo. São Paulo: Casa do Código. 2018. 
+STAUFFER, M. Desenvolvendo com Laravel: Um Framework Para a 
+Construção de Aplicativos PHP Modernos.  São Paulo:  Novatec, 2017. 
+ 
+ 
+MAT-019 – MATEMÁTICA PARA COMPUTAÇÃO – PRESENCIAL –  80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Aplicar princípios de matemática e estatística na solução de problemas complexos. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender os conceitos de funções racionais, tri gonométricas, 
+exponencial e logaritmo, para utilizar no desenvolv imento de 
+programas computacionais.  
+• Compreender e utilizar a teoria de conjuntos e sub conjuntos no 
+desenvolvimento de banco de dados. 
+• Aplicar relações binárias, equivalentes e de ordem , para propor 
+soluções em aplicações e sistemas, no desenvolvimen to dos 
+algoritmos. 
+Ementa : Lógica matemática. Conjuntos. Combinatória. Relaç ão. Funções. 
+Conceitos básicos de Grafos. Introdução a Análise d e Algoritmos. Recursividade. 
+Relações de Recorrência. Relações e sua aplicação e m Banco de Dados 
+(Álgebra Relacional). 
+Metodologia proposta:  Aulas expositivas.  Sala de aula invertida. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+GERSTING, J.L. Fundamentos Matemáticos para a ciência da computaçã o: 
+Matemática Discreta e Suas Aplicações.7 ed. São Pau lo: LTC, 2016. 
+MENEZES, P.B. Matemática Discreta para Computação e Informática.  
+Volume 16. 4 ed. Porto Alegre: Bookman, 2013. 
+Bibliografia Complementar:   
+SCHEINERMAN, E. Matemática Discreta: Uma introdução . 3 ed. São Paulo: 
+Cengage Learning, 2016. 
+STEIN, C. DRYSDALE.R.L., BOGART, K., Matemática Discreta para Ciências 
+da Computação . São Paulo: Pearson Universidades, 2013 
+ 
+IES-012 – ENGENHARIA DE SOFTWARE II – PRESENCIAL - 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Especificar os requisitos, projetar e documentar s oluções de software baseadas no conhecimento 
+apropriado de teorias, modelos e técnicas, observan do as necessidades dos projetos.  
+• Modelar e implantar processos de negócio, propor s oluções de TI a fim de aumentar a 
+competitividade das organizações. 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar padrões ao processo de softw are.  
+• Mapear modelos de representação.  
+• Empregar os diversos tipos de Arquitetura de Softw are.  
+• Compreender a aplicar padrões de documentação, int egração de 
+sistemas e manutenção. 
+Ementa : Modelos de Processo de Desenvolvimento de Softwar e (Espiral e 
+Prototipagem). Modelagem de Sistemas utilizando (UM L). Modelagem de 
+Processos do Negócio (BPMN). Técnicas de documentaç ão e Definition of Done  
+(DoD). Padrões de Projeto e Projeto de Arquitetura de Software. Conceitos de 
+Testes de Software. Implantação de Software. Evoluç ão funcional e Manutenção 
+corretiva de Software. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Sala de Aula Invertida. Estudo de Caso Real. Nesta 
+disciplina o professor é responsável por desenvolve r um projeto interdisciplinar 
+integrando a disciplina de Desenvolvimento Web II e  Banco de Dados - 
+Relacional, seguindo o Manual de Projetos Interdisc iplinares expedido pela 
+CESU.  
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. Análise da doc umentação do projeto 
+interdisciplinar. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares.  Análise da 
+apresentação oral do projeto interdisciplinar e val idação do projeto para inclusão 
+no Portfólio Digital do aluno.  
+Bibliografia Básica:   
+PRESSMAN, Roger; MAXIM, Bruce. Engenharia de Software . 8 ed. São 
+Paulo: McGraw Hill Brasil, 2016. 
+SOMMERVILLE, Ian. Engenharia De Software . 10 ed. São Paulo: Pearson 
+Brasil, 2019. 
+WAZLAWICK, R. S. Engenharia de Software: conceitos e práticas . Rio de 
+Janeiro: Elsevier, 2013. 
+Bibliografia Complementar: 
+LENGHOLM JR. Hélio. Engenharia de Software na Prática . São Paulo: 
+Novatec, 2010.  
+GUEDES, G. T. A. UML 2 - uma abordagem prática . São Paulo: Novatec, 2011. 
+HIRAMA, K. Engenharia de Software: qualidade e produtividade com 
+tecnologia. Rio de Janeiro: Elsevier, 2011. 
+PAULA FILHO, W. P. Engenharia de software . Rio de Janeiro: LTC, 2010. 
+PETERS, James. Engenharia de software: Teoria e prática. Rio de Janeiro: 
+Campus, 2001. 
+SBROCCO, J. H. T. C.; MACEDO, P. C. Metodologias Ágeis: Engenharia de 
+Software sob medida. São Paulo: Érica, 2012. 
+TSUI, F.; KARAM, O. Fundamentos de Engenharia de Software . São Paulo: 
+LTC, 2013. 
+ 
+IBD-015 – BANCO DE DADOS – RELACIONAL – PRESENCIAL – 80 Aulas  
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e 
+implementação a fim de garantir a qualidade dos dad os.  
+• Utilizar adequadamente as técnicas de armazenament o e tratamento de dados estruturados, 
+visando qualidade, manutenção e segurança; 
+• Utilizar adequadamente os princípios de armazename nto e tratamento de dados a fim de 
+suportar a recuperação de dados utilizados em aplic ações.   
+ 
+Objetivos de Aprendizagem:  
+• Aplicar normalização para implementação de Banco d e Dados, utilizando 
+adequadamente os conceitos de linguagem de definiçã o, manipulação e 
+consulta de dados.  
+• Implementar Stored  procedures e Gatilhos ( triggers ), para soluções de 
+problemas em sistemas.  
+• Identificar as características de recuperação após  falha e de segurança 
+dos SGBDs. 
+Ementa : Projeto e implementação de banco de dados relacio nais. Consultas 
+complexas com agrupamentos e subconsultas. Implemen tação de restrições de 
+integridade. Criação de consultas utilizando visões . Aspectos de programação 
+em ambiente de banco de dados com procedimentos arm azenados, gatilhos e 
+funções. Cópia de segurança e restauração de bancos  de dados. Estruturas de 
+índices. Processamento e otimização de consultas. P rocessamento de 
+transações e controle de concorrência. Recuperação de falhas. Novas 
+tecnologias aplicadas a banco de dados. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação, Estudo de Caso Rea l. Trabalhos 
+Interdisciplinares desenvolvidos, seguindo o Manual  de Projetos 
+Interdisciplinares expedido pela CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para Prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Trabalhos Int erdisciplinares em pares e 
+Validação do projeto para inclusão no Portfólio Dig ital do aluno.  
+Bibliografia Básica:   
+DATE, C. J. Introdução a sistemas de bancos de dados . Rio de Janeiro, 
+Elsevier: Campus, 2004. 
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados . 7 ed. São Paulo: 
+Pearson, 2018. 
+SILBERSCHATZ, A.; SUNDARSHAN, S.; KORTH, H. F. Sistema de banco de 
+dados . Rio de Janeiro: Elsevier Brasil, 2016. 
+Bibliografia Complementar:   
+BEAULIEU, A. Aprendendo SQL . São Paulo: Novatec, 2010. 
+GILLENSON, M. L. Fundamentos de Sistemas de Gerência de Banco de 
+Dados . Rio de Janeiro: LTC, 2006. 
+MACHADO, F. N. R. Banco de Dados: Projeto e Implementação. São Paulo: 
+Érica, 2005. 
+OTEY, M; OTEY, D. Microsoft SQL Server 2005:  Guia do Desenvolvedor. Rio 
+de Janeiro: Ciência Moderna, 2007. 
+RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Bancos 
+de Dados . 3 ed. Porto Alegre: Bookman, 2008. 
+ROB, P; CORONEL, C. Sistemas de Banco de Dados: Projeto, Implementação 
+e Gerenciamento . 8 ed. São Paulo: Cencage Learning, 2011. 
+TEOREY, T; LIGHTSTONE, S; NADEAU, T. Projeto e Modelagem de Bancos 
+de Dados.   São Paulo: Campus, 2006. 
+ 
+IED-005 – ESTRUTURA DE DADOS – PRESENCIAL - 80 Aula s 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Empregar estruturas de dados adequadas para o dese nvolvimento de software para atender 
+a diversidade de projetos e plataformas.   
+ 
+Objetivos de Aprendizagem:  
+• Entender e criar algoritmos de nível não-elementar .  
+• Compreender e utilizar estruturas de dados lineare s na resolução de 
+problemas.  
+• Compreender e simular o funcionamento de algoritmo s de ordenação.  
+• Entender e criar aplicações de busca sequencial e busca binária. 
+• Utilizar as técnicas de resolução de problemas no desenvolvimento de 
+programas. 
+Ementa : Alocação dinâmica e ponteiros; Arquivos; Introduç ão à notação 
+assintótica; Tipos abstratos de dados: conceitos, o perações, representações, 
+manipulação, listas, pilhas e filas. Estruturas de representação de grafos (matriz 
+de adjacência e de incidência). Estruturas para rep resentação de árvores. 
+Árvores binárias e suas aplicações. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Coding Dojo. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+ASCENCIO, A. F. G. Estruturas de Dados . São Paulo: Pearson Brasil, 2011. 
+EDELWEISS, N; GALANTE, R. Estruturas de Dados . Porto Alegre: Bookman, 
+2009 
+PEREIRA, S. L. Estruturas de dados fundamentais: Conceitos e Aplicações. 
+São Paulo: Érica, 2009. 
+Bibliografia Complementar:   
+CORMEN, T. H. et al. Algoritmos . Rio de Janeiro: Campus, 2012.  
+EDELWEISS, N.; GALANTE, R. Estruturas de Dados.  Série: Livros Didáticos 
+Informática UFRGS. Volume 18. Porto Alegre: Bookman . 2008. 
+GOODRICH, M. T.; TAMASSIA, R. Estruturas de Dados & Algoritmos em 
+Java.  5 ed. Porto Alegre: Bookman. 2013. 
+KOFFMANN, E. B. Objetos, abstração, estrutura de dados e projeto.  Rio de 
+Janeiro: LTC, 2008. 
+PUGA, S.; RISSETTI, G. Lógica de Programação e Estruturas de Dados . 3 
+ed. São Paulo: Pearson, 2016. 
+TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. J. Estruturas de Dados 
+Usando C. São Paulo: Pearson,1995. 
+ 
+Terceiro Semestre 
+ 
+Período  Sigla  Relação de Componentes  Modalidade Aulas Semestrais Total de 
+Aulas 
+Semestrais  Sala de Aula  Laboratório  Remota – 
+Síncrona 3o semestre  ILP-037  Técnicas de Programação II  Presencial - 80 - 80 
+ISW-030  Desenvolvimento Web III Presencial  - 80 - 80 
+MAG -
+004  Álgebra Linear  Presencial 80 - - 80 
+AGO -
+021  Gestão Ágil de Projetos de 
+Software Presencial - 80 - 80 
+IBD-016  Banco de Dados - Não Relacional  Presencial - 80 - 80 
+IHC-004  Interação Humano Computador Presencial - 40 - 40 
+ING-085  Inglês I Presencial 40 - - 40 
+Total de aulas semestrais 120 360 - 480  
+ 
+Competências Socioemocionais desenvolvidas transver salmente em todos os 
+componentes deste semestre  
+• Demostrar capacidade de resolver problemas complexo s e propor soluções criativas e 
+inovadoras.  
+• Desenvolver a visão sistêmica, identificando soluç ões, respeitando aspetos culturais, 
+éticos, ambientais e sociais no âmbito local, regio nal e internacional. 
+•  Evidenciar o uso de pensamento crítico em situaçõ es adversas. 
+• Empreender ações inovadoras, analisando criticamen te a organização, antecipando e 
+promovendo transformações. 
+• Administrar conflitos quando necessário, estabelec er relações e propor um ambiente 
+colaborativo, incentivando o trabalho em equipe. 
+• Atuar de forma autônoma na realização de atividade s profissionais e na execução de 
+projetos. 
+• Elaborar, gerenciar e apoiar projetos identificand o oportunidades e avaliando os riscos 
+inerentes. 
+• Comunicar-se, tanto na língua materna como em líng ua estrangeira. 
+ 
+ILP-037 – TÉCNICAS DE PROGRAMAÇÃO II  – PRESENCIAL - 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Empregar linguagens de Programação Orientada a Obj etos e utilizar Padrões de Projetos no 
+desenvolvimento de aplicações. 
+ 
+Objetivos de Aprendizagem:  
+• Utilizar linguagem de programação orientada a obje tos aplicando 
+conceitos de Padrões de Projetos;  
+•  Aplicar no desenvolvimento do código padrões de c riação responsáveis 
+por abstrair a construção dos objetos;  
+• Empregar padrões estruturais com o objetivo de rea lizar o relacionamento 
+entre as entidades para facilitar o design do sist ema/aplicação;  
+• Utilizar padrões comportamentais que tem como prin cipal 
+responsabilidade facilitar a comunicação entre os o bjetos;  
+• Aplicar versionamento e documentação da aplicação.  
+Ementa : Padrões de projeto Orientados a Objetos. Padrões Fundamentais GoF. 
+Padrões arquiteturais: Model View Controller  (MVC), Model-View-
+ViewModel (MVVM) e Model View Presenter  (MVP).  Desenvolvimento utilizando 
+banco de dados para adicionar, apagar, atualizar e pesquisar. Persistência de 
+dados utilizando frameworks de interface gráfica. D esenvolvimento Dirigido a 
+Testes (TDD). Controle de versionamento. 
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Coding Dojo. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação.                                   
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+GAMMA, E. et al. Padrões de Projetos: Soluções Reutilizáveis de Software 
+Orientados a Objetos. Porto Alegre: Bookman, 2015 
+FREEMAN, E.; FREEMAN E. Use a Cabeça! Padrões de Projetos . 2 ed. Rio 
+de Janeiro: Alta Books, 2007. 
+KENT, B. TDD - Desenvolvimento Guiado Por Testes.  Porto Alegre: 
+Bookman,2010. 
+SANDERS, W. Aprendendo Padrões de Projeto em PHP: Programação  
+Orientada a Objetos Para Projetos Dinâmicos.  São P aulo: Novatec, 2013. 
+Bibliografia Complementar:   
+EVANS, E. DOMAIN-DRIVEN DESIGN . Rio de Janeiro: Alta Books, 2020. 
+FEATHERS, M. C. Trabalho Eficaz Com Código Legado . Porto Alegre: 
+Bookman, 2013. 
+GIRIDHAR, C. Aprendendo Padrões de Projeto em Python: Tire Proveito da 
+Eficácia dos Padrões de Projeto (design Patterns) e m Python Para Resolver 
+Problemas do Mundo Real em Arquitetura e Design de Software. São Paulo: 
+Novatec,2016. 
+GUERRA, E. Design Patterns com Java: Projeto Orientado a Objetos guiado 
+por Padrões. São Paulo: Casa do Código. 2014. 
+ 
+ISW-030 – DESENVOLVIMENTO WEB III – PRESENCIAL - 80  Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Aplicar linguagens de programação back-end e racio cínio lógico adequados para resolução 
+de situações problema e ou desenvolvimento de proje tos diversos. 
+• Aplicar técnicas de Search Engine Optimization, co njunto de estratégias e métodos para 
+melhorar o posicionamento de páginas da Internet no s mecanismos de buscas. 
+• Implantar sistemas nas diversas infraestruturas de  Redes de Computadores, buscando a 
+melhor performance. 
+ 
+Objetivos de Aprendizagem:  
+• Utilizar linguagem de programação orientada a obje tos difundida no 
+mercado aplicando conceitos e princípios de Design Patterns buscando 
+aplicar no desenvolvimento do código padrões de cri ação responsável por 
+abstrair a construção dos objetos, permitindo a fle xibilidade através da 
+herança de classes, padrões estruturais com o objet ivo de realizar o 
+relacionamento entre as entidades para facilitar o design do 
+sistema/aplicação e padrões comportamentais que tem  como principal 
+responsabilidade facilitar a comunicação entre os o bjetos.  
+• Utilizar o ciclo de versionamento para trabalhar c om delivery contínuo 
+• Aplicar conceitos da arquitetura BCE (Boundary, Co ntrol, Entity) adaptada 
+ou MVC (Model, View, Controller) em uma interface g ráfica difundida no 
+mercado 
+• Aplicar versionamento e documentação da aplicação.  
+Ementa:  Framework para desenvolvimento front-end e back-en d. Arquiteturas 
+de sistemas web tais como modelo-visão-controlador (MVC), modelo visão e 
+gabarito Model-View-Template  (MVT) arquitetura orientada a serviços Service 
+Oriented Architecture  (SOA), microsserviços, aplicações web de página ún ica 
+Single Page Applications (SPA). Persistência de dados utilizando bancos de 
+dados não relacionais, tais como orientados a docum entos, orientados a objetos. 
+Criação e publicação de APIs. Técnicas e Ferramenta s para otimização de sites 
+de buscas (SEO). Desenvolvimento Dirigido a testes (TDD). Testes de sistemas 
+e serviços web. Controle de versionamento. 
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Coding Dojo.  
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares. 
+Bibliografia Básica:   
+FOWLER, S. Microsserviços Prontos Para a Produção : Construindo Sistemas 
+Padronizados em uma Organização de Engenharia de So ftware. São Paulo: 
+Novatec, 2017. 
+MELÉ, A. Aprenda Django 3 com Exemplos: Crie Aplicações web 
+Profissionais em Python, Começando do Zero. São Pau lo: Novatec, 2020. 
+PERCIVAL, H. J. W. TDD com Python: Siga o Bode dos Testes: Usando 
+Django, Selenium e JavaScript. São Paulo: Novatec, 2017. 
+POWERS, S. Aprendendo Node: Usando JavaScript no Servidor. São Paulo: 
+Novatec, 2017. 
+Bibliografia Complementar:   
+BROWN, E. Programação web com Node e Express: Beneficiando-se da 
+Stack JavaScript.  São Paulo: Novatec, 2020. 
+DUCKETT, J. JAVASCRIPT e JQUERY:  Desenvolvimento de Interfaces Web 
+Interativas. Editora Alta Books. 2016 
+IHRIG, C. J. Pro Node.Js para Desenvolvedores . Rio de Janeiro: Ciência 
+Moderna. 2014. 
+SHENOY, A.; PRABHU A. Introdução ao SEO: Seu Guia Rápido às Práticas 
+Eficientes de SEO. São Paulo: Novatec, 2016. 
+  
+MAG-004 – ÁLGEBRA LINEAR- PRESENCIAL- 80 Aulas  
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Aplicar conceitos de álgebra no desenvolvimento de  aplicações e sistemas.  
+ 
+Objetivos de Aprendizagem:  
+• Compreender e utilizar vetores, espaços vetoriais,  transformações 
+lineares, sistemas de equações lineares e matrizes,  para a aprimorar as 
+técnicas de desenvolvimento de algoritmos para Inte ligência Artificial e a 
+análise e desempenho de Rede de Computadores.  
+• Compreender e empregar os conceitos de matrizes pa ra uma melhor 
+eficiência em tempo de processamento, no desenvolvi mento de 
+programas.  
+• Criar modelos matemáticos para soluções de problem as. 
+Ementa : Vetores, Espaços Vetoriais, Transformações Linear es, Matrizes, 
+Determinantes, Dependência Linear, Autovalores e Au tovetores, Diagonalização.  
+Metodologia proposta:  Aulas expositivas. Desenvolvimento de Projetos 
+baseados em problemas reais, Emprego de metodologia  ágil para gestão de 
+projetos. Utilização de Ambientes de Virtualização e sala de aula invertida. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. Apresentação d e Projetos, por meio de 
+Pitch para entregas intermediárias. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para a entrega final uma apresentação dos res ultados obtidos.  Validação do 
+projeto Inclusão do resultado no Portfólio Digital do aluno. Avaliação em pares e 
+Trabalhos Interdisciplinares. 
+Bibliografia Básica:   
+ANTON H., RORRES, C., Álgebra Linear com Aplicações . 10 ed. Porto Alegre: 
+Bookman, 2012.  
+FRANCO, N., Álgebra Linear . São Paulo:Pearson, 2017. 
+STEINBRUCH, A., WINTERLE, P . Álgebra Linear . São Paulo: Pearson, 1995. 
+Bibliografia Complementar:   
+GRUS, J., Data Science do Zero: Primeiras Regras com o Python. Rio de 
+Janeiro: Alta Books, 2019.  
+LIPSCHUTZ, S., LIPSON, M., Álgebra Linear . Porto Alegre: Bookman, 2011. 
+SANTOS, R.F.V., Álgebra Linear com Python:  Aprenda na prática os principais 
+conceitos; Série: Cientistas de Dados. [S.l.: s.n.], 2018 
+TAKAHASHI, S., Guia Mangá Álgebra Linear . São Paulo: Novatec, 2012. 
+ 
+AGO-021 – GESTÃO ÁGIL DE PROJETOS DE SOFTWARE – PRE SENCIAL – 
+80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Gerenciar projetos de sistemas de informação quant o aos objetivos, custos, recursos, 
+escopo, riscos e prazos. 
+• Empreender, exercer a liderança, identificar oport unidades de mudanças e projetar soluções 
+inovadoras baseadas em tecnologias da informação na s organizações. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar conceitos, técnicas e ferram entas para revisar e 
+aprimorar os modelos e processos de gestão de proje tos de software.  
+• Empregar no gerenciamento de projetos de software as melhores práticas 
+ágeis. 
+Ementa : Visão geral sobre o gerenciamento tradicional de projetos versus 
+metodologia ágil de projetos.  Introdução aos métod os ágeis, princípios, valores 
+e filosofia. O manifesto Ágil. Principais métodos á geis. Princípios e práticas ágeis 
+para gestão de projetos de desenvolvimento de softw are. Práticas de 
+gerenciamento ágil de projetos (engajamento das par tes interessadas, gerência 
+da equipe, planejamento adaptativo, detecção e reso lução de problemas e 
+melhoria contínua). Papéis e responsabilidades de e quipes ágeis.  Gestão de 
+Performance e Gestão de Times Ágeis.   
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação, Sala de Aula Inver tida, Estudo de Caso Real. 
+Nesta disciplina o professor é responsável por dese nvolver um projeto 
+interdisciplinar integrando a disciplina de Desenvo lvimento Web III, Banco de 
+Dados - Não Relacional e Interação Humano computado r, seguindo o Manual de 
+Projetos Interdisciplinares expedido pela CESU.  
+Instrumentos de avaliação:  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. Apresentação d e Projetos, por meio de 
+Pitch para entregas intermediárias. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares. Validação do projeto para inclu são no Portfólio Digital do aluno.  
+Bibliografia Básica:   
+AMARAL, D. C. et al. Gerenciamento Ágil de Projetos: aplicações em produtos 
+inovadores. São Paulo: Saraiva, 2011. 
+CRUZ, F. PMO Ágil: Escritório Ágil de Gerenciamento de Projetos . São Paulo: 
+BRASPORT, 2016 
+CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua 
+certificação e aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: 
+Brasport, 2018. 
+CRUZ, F. Scrum e PMBOK unidos no Gerenciamento de Projetos . São Paulo: 
+Brasport, 2013. 
+PMI. Guia de Prática Ágil . EUA: Project Management Institute, 2018. 
+PMI. Um Guia do Conhecimento em Gerenciamento de Projeto s (Guia 
+PMBoK) . 6 ed. EUA: Project Management Institute, 2018. 
+Bibliografia Complementar:   
+KERZNER, H. Gerenciamento de Projetos: Uma Abordagem Sistêmica para 
+Planejamento, Programação e Controle . 10 ed. São Paulo: Blucher, 2011: 
+KNIBERG, S., M. Kanban and Scrum obtendo o melhor de ambos.  USA: 
+C4Media Inc,2009.  
+SUTHERLAND, J. J. Scrum: guia prático , Sextante, Rio de Janeiro, 2020. 
+VALLE, André B. do et al. Fundamentos de gerenciamento de projetos . 3 ed. 
+Rio de Janeiro: FGV, 2014.       
+             
+IBD-016 – BANCO DE DADOS - NÃO RELACIONAL – PRESENC IAL – 80 
+Aulas 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e 
+implementação a fim de garantir a qualidade dos dad os. 
+• Utilizar adequadamente as técnicas de armazenament o e tratamento de dados não-
+estruturados, visando qualidade, manutenção e segur ança; 
+• Utilizar adequadamente os princípios de armazename nto e tratamento de dados a fim de 
+suportar a recuperação de dados utilizados em aplic ações.   
+ 
+Objetivos de Aprendizagem:  
+• Caracterizar Banco de Dados Relacional e Não Relac ional, de acordo 
+com a especificação do projeto.  
+• Utilizar Banco de Dados Não Relacional.   
+• Utilizar Sistemas de Banco de Dados paralelos e di stribuídos.  
+• Compreender os conceitos de Data Warehouse  e Mineração de Dados.  
+• Identificar métodos seguros para gerenciamento do Banco de Dados. 
+Ementa : Dados estruturados e não estruturados. Arquitetur a de Banco de Dados 
+Não Convencionais. Introdução aos conceitos de Data Warehouse . Estudo sobre 
+os conceitos de aplicações não-convencionais. Model agem NoSQL: Definições 
+e Motivação. Estudos das categorias de Bancos de Da dos NoSQL: chave-valor, 
+orientados a documentos, orientados a colunas e ori entados a grafos.  Projeto 
+Lógico do Banco de Dados - Não Relacional. Implemen tações práticas das 
+principais categorias de Bancos de Dados NoSQL. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Estudo de Caso Rea l. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares. Validação do projeto para inclu são no Portfólio Digital do aluno.  
+Bibliografia Básica:   
+BOAGLIO, Fernando . MongoDB: Construa novas aplicações com novas 
+tecnologias.  São Paulo: Casa do Código, 2015. 
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados: Fundamentos e 
+Aplicações. 7ed. São Paulo: Pearson, 2019. 
+SADALAGE, P.; FOWLER, M. Nosql Essencial: Um Guia Conciso Para o 
+Mundo Emergente da Persistência Poliglota.  São Paulo:  Novatec, 2013.  
+SINGH, Harry. Data Warehouse : conceitos, tecnologias, implementação e 
+gerenciamento.  São Paulo: Makron Books, 2001. 
+Bibliografia Complementar:   
+FAROULT, Stephane. Refatorando Aplicativos SQL . Rio de Janeiro: Alta 
+Books, 2009. 
+PANIZ, D. NoSQL: Como armazenar os dados de uma aplicação moderna. C asa 
+do Código, 2016. 
+SOUZA, M. Desvendando o Mongodb . Rio de Janeiro: Ciência Moderna, 2015. 
+ 
+ 
+ 
+IHC-004 – INTERAÇÃO HUMANO COMPUTADOR – PRESENCIAL – 40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Aplicar métricas de usabilidade, elaborar avaliaçõ es Heurísticas e Inspeção Semiótica. 
+• Implementar sistemas interativos utilizando os mét odos e técnicas da Interação Humano 
+Computador para Desktop, Web, Tablet, Smartphone e para Internet das Coisas (IoT). 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar conceitos, modelos e técnica s de Interação 
+Humano Computador.  
+• Projetar e avaliar sistemas computacionais interat ivos utilizando os 
+princípios de usabilidade e acessibilidade.  
+• Compreender e avaliar as implicações da fisiologia , psicologia e cognição 
+na interatividade dos sistemas computacionais.  
+• Aplicar os conceitos da Engenharia Semiótica no de senvolvimento e 
+avaliação de sistemas.  
+• Criar sistemas que ofereçam acessibilidade.  
+• Compreender e utilizar técnicas de desenvolvimento  de interfaces 
+centradas no usuário. 
+Ementa : Interface, Interação e Affordance ; Usabilidade, Acessibilidade e 
+Comunicabilidade; Arquitetura da Informação. Identi ficação das necessidades 
+dos usuários e requisitos de IHC. Projeto e prototi pação (Baixa, média e alta 
+fidelidade): recomendações, modelos e notações de d esign. Avaliação 
+Heurística. Avaliação de Comunicabilidade. Inspeção  Semiótica. Teste de 
+Usabilidade.  
+Metodologia proposta:  Aulas Expositivas. Design Thinking . Aprendizagem 
+Baseada em Projetos/Problemas. Emprego de metodolog ia ágil para gestão de 
+projetos.  Gamificação. Estudo de Caso Real. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares. Validação do projeto para inclu são no Portfólio Digital do aluno.  
+Bibliografia Básica:   
+BARBOSA, S.D.J.; SILVA, B.S.  Interação Humano-Computador . Rio de 
+Janeiro: Elsevier-Campus, 2010. 
+BENYON, D. Interação Humano Computador . 2 ed. São Paulo: Pearson 
+Prentice Hall, 2011. 
+CAMARGO, L. S. A.; VIDOTTI, S. A. B. G. A rquitetura da informação: uma 
+abordagem prática para o tratamento de conteúdo e i nterfaces em ambientes 
+informacionais digitais . Rio de Janeiro, Altas Books 2019. 
+CYBIS, W.; BETIOL, A. H. e FAUS T, R. Ergonomia e Usabilidade: 
+Conhecimentos, Métodos e Aplicações. 2 ed. São Paul o: Novatec, 2010. 
+Bibliografia Complementar:   
+LOWDERMILK, T. Design Centrado no Usuário: um guia para o 
+desenvolvimento de aplicativos amigáveis. São Paulo : Novatec, 2013. 
+ME LO, A.; ABELHEIRA, R. Design Thinking  e Thinking Design : Metodologia, 
+ferramentas e uma reflexão sobre o tema.  São Paulo : Novatec, 2015.  
+MEW, k. Aprendendo Material Design: domine o Material Design e crie 
+Interfaces bonitas e animadas para aplicativos móve is e web. São Paulo, 
+Novatec,2016. 
+NIELSEN, J.; BUDIU, R. Usabilidade Móvel . São Paulo: Campus, 2013. 
+ 
+ 
+ING-085 – INGLÊS I – PRESENCIAL - 40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver comunicação interpessoal, compreensão e interpretação elementar em 
+situações familiares cotidianas e profissionais que  envolvam expressão de ideias, 
+negociação, análise e elaboração de documentos, grá ficos, diagramas e símbolos em inglês.  
+ 
+Objetivos de Aprendizagem:  
+• Compreender e produzir textos simples orais e escr itos de relevância para 
+a atuação profissional.  
+• Apresentar-se e fornecer informações pessoais e co orporativas e 
+descrever áreas de atuação de empresas. Anotar horá rios, datas e locais.  
+• Reconhecer a entoação e o uso dos diferentes fonem as da língua.  
+• Fazer uso de estratégias de leitura e de compreens ão oral para entender 
+o assunto tratado em textos orais e escritos da sua  área de atuação. 
+Ementa : Introdução às habilidades de compreensão e produç ão oral e escrita 
+por meio de funções comunicativas e estruturas simp les da língua. Ênfase nas 
+habilidades comunicativas necessárias para o desenv olvimento de tarefas 
+relacionadas à atuação profissional. 
+Metodologia proposta:  Aulas expositivas dialogadas. Dramatização (role-p lay). 
+Atividades em pares/grupos. Gamificação. 
+Instrumentos de avaliação : Avaliação Diagnóstica (nivelamento). 
+Avaliação Formativa: Exercícios para prática e prod ução oral e escrita ao longo 
+do curso (com feedback e plano de ações). 
+Avaliação Somativa: Provas ou trabalhos em grupo qu e avaliem tanto a escrita 
+e leitura, quanto a oralidade e compreensão auditiv a. 
+Bibliografia Básica:   
+HUGES, John et al. Business Result: Elementary. Student Book Pack . 
+Oxford: New York: Oxford University Press, 2017. 
+IBBOTSON, Mark; STEPHENS, Bryan. Business Start-up: Student Book 1 . 
+Cambridge: Cambridge University Press, 2015. 
+OXENDEN, Clive; LATHAM -KOENIG, Christina. American English File: 
+Student’s Book 1.  New York, NY: Oxford University Press, 2018. 
+Bibliografia Complementar:   
+CARTER, Ronald.; NUNAN, David. Teaching English to Speakers of other 
+languages . Cambridge: Cambridge University Press, 2015. 
+CLARKE, Simon . In Company 3.0 Elementary Level Student’s Book Pa ck . 
+London, MacMillan Publishers Ltd, 2015.  
+LONGMAN. Dicionário Longman Escolar para Estudantes Brasilei ros . 
+Português-Inglês/Inglês-Português com CD-Rom. 2ª Ed ição: Atualizado com as 
+novas regras de Ortografia. São Paulo: Pearson Educ ation do Brasil, 2009. 
+MURPHY, Raymond. Essential Grammar in Use CD-Rom with answers . 
+Fourth Edition. Cambridge, 2015. 
+ 
+ 
+ 
+ 
+ 
+Quarto Semestre 
+ 
+Período  Sigla Relação de Componentes Modalidade Aulas Semestrais Total de 
+Aulas 
+Semestrais Sala de Aula  Laboratório  Remota - 
+Síncrona 4o semestre  ISW-032  Integração e Entrega Contínua  Presencial - 80 - 80 
+ISW-033  Laboratório de Desenvolvimento Web Presencial - 80 - 80 
+IAL-011  Internet das Coisas e Aplicações Presencial - 80 - 80 
+ILP-038  Programação para Dispositivos Móveis 
+I Presencial - 80 - 80 
+MET -
+004  Estatística Aplicada Presencial 40 40 - 80 
+IHC-005  Experiência do Usuário Presencial - 40 - 40 
+ING-086  Inglês II Presencial 40 - - 40 
+Total de aulas semestrais 80 400 - 480  
+ 
+Competências Socioemocionais desenvolvidas transver salmente em todos os 
+componentes deste semestre  
+• Demostrar capacidade de resolver problemas complexo s e propor soluções criativas e 
+inovadoras.  
+• Desenvolver a visão sistêmica, identificando soluç ões, respeitando aspetos culturais, 
+éticos, ambientais e sociais no âmbito local, regio nal e internacional. 
+• Evidenciar o uso de pensamento crítico em situaçõe s adversas. 
+• Empreender ações inovadoras, analisando criticamen te a organização, antecipando e 
+promovendo transformações. 
+• Administrar conflitos quando necessário, estabelec er relações e propor um ambiente 
+colaborativo, incentivando o trabalho em equipe. 
+• Atuar de forma autônoma na realização de atividade s profissionais e na execução de 
+projetos. 
+• Elaborar, gerenciar e apoiar projetos identificand o oportunidades e avaliando os riscos 
+inerentes. 
+• Comunicar-se, tanto na língua materna como em língu a estrangeira.  
+ 
+ 
+ISW-032 – INTEGRAÇÃO E ENTREGA CONTÍNUA – PRESENCIA L – 80 
+Aulas 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Planejar a melhor estratégia para documentação e v ersionamento dos softwares, aplicando 
+as melhores práticas do mercado para garantir a int egração e entrega contínuas de software.  
+ 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar conceitos, práticas e padrõe s relacionados à 
+integração e entrega contínua.  
+• Compreender a relação entre testes e integração co ntínua.  
+• Avaliar as vantagens e desvantagens da integração e entrega contínua 
+no desenvolvimento.   
+• Criar e avaliar gráficos.  
+• Empregar técnicas de monitoramento de infraestrutu ra e logs da 
+aplicação. 
+• Selecionar e avaliar ferramentas para integração e  entrega contínua.  
+• Compreender e empregar ferramentas e infraestrutur a do ambiente 
+integrado (Containers e Docker). 
+Ementa : Conceitos de Integração e entrega contínua de sof tware. Gerencia de 
+Configuração. Ferramentas de integração e entrega c ontínua de software. 
+Pipeline: para construção de aplicações, para verif icação da qualidade do 
+código, configuração dos requisitos). Scripts de co mpilação e implantação. 
+Controle de versão avançado.  Ferramentas de versio namento de código. 
+Estágios de COMMIT. Testes automatizados. Implantaç ão de entrega de versões 
+de aplicações. Gerencia de Dados. Gerenciamento de Componentes e 
+dependências. Gerenciamento da entrega contínua.  
+Metodologia proposta: Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Sala de Aula Invertida, Estudo de Caso Real. Utilização de 
+Ambientes de Virtualização. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação.  
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares. 
+Bibliografia Básica:   
+HUMBLE J; PRIKLANDNICKI R. Entrega Contínua: Como Entregar Software 
+de Forma Rápida e Confiável. São Paulo: Bookman, 20 13.           
+MUNIZ, A.; et al. Jornada DevOps: Unindo Cultura Ágil, Lean e Tecnologia Para 
+Entrega de Software Com Qualidade. São Paulo: Brasp ort, 2019. 
+SATO D. DevOps na prática: entrega de software confiável e automatizada. São 
+Paulo: Casa do Código, 2014.  
+SILVA, R. Entrega contínua em Android: Como automatizar a distribuição de 
+apps. São Paulo: Casa do Código, 2016. 
+Bibliografia Complementar:   
+ARUNDEL, J. DOMINGUS, J. DevOps nativo de nuvem com Kubernetes . São 
+Paulo: Novatec, 2019.  
+MORAES, G. Caixa de Ferramentas DevOps: Um guia para construção, 
+administração e arquitetura de sistemas modernos. S ão Paulo: Casa do Código, 
+2015. 
+PIRES, A.; MILITÃO, J. Integração Contínua com Jenkins . São Paulo: Casa 
+do Código, 2019. 
+VITALINO, J. F. N.; CASTRO, M. A. N. Descomplicando o Docker.  2 ed. São 
+Paulo: Brasport, 2018. 
+SILVERMAN, R. E.  Git: guia prático . São Paulo: Novatec, 2019.  
+ 
+ISW-033 - LABORATÓRIO DE DESENVOLVIMENTO WEB – PRES ENCIAL – 
+80 Aulas  
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empreender, exercer a liderança, identificar oport unidades de mudanças e projetar soluções 
+inovadoras baseadas em tecnologias da informação na s organizações. 
+• Todas as competências desenvolvidas, do primeiro a o quarto semestres, poderão ser 
+associadas no desenvolvimento do projeto desta disc iplina. 
+Objetivos de Aprendizagem:  
+• Utilizar frameworks de desenvolvimento front-end  e back-end  alinhados 
+com as linguagens de programação no desenvolvimento  web.  
+• Criar APIs para interagir com sistemas externos.  
+• Gerenciar dependências.  
+• Utilizar Métricas e análises de aplicações Web.  
+• Otimizar sites para buscas (SEO). Ferramentas de W eb Analytics .  
+• Aplicar aspectos de segurança, cookies, autenticaç ão HTTP, upload, 
+download, arquivos remotos.  
+• Criar conexões de bancos de dados persistentes, ve rsionamento e 
+documentação da aplicação, buscando atender às boas  práticas da 
+engenharia de software. 
+Ementa : Elaboração de um projeto, empregando metodologia ágil no 
+desenvolvimento de um sistema web, empregando lingu agens de programação 
+e frameworks para Front-End  e Back-End  com layout responsivo, persistência 
+de dados e consumindo APIs públicas e privadas. Uti lização de containers para 
+isolamento de sistemas web em produção. Diferentes tipos de servidores web e 
+seu impacto na construção dos sistemas. Isolamento das diferentes partes da 
+aplicação web utilizando tecnologias de virtualizaç ão e/ou containers. Arquitetura 
+de sistemas web escaláveis. Segurança nos diferente s níveis de uma aplicação 
+web: embaralhamento de código, comunicação utilizan do protocolos seguros, 
+arquitetura segura, criptografia de arquivos e de c onfiguração e dados em banco 
+de dados. Práticas de integração e entrega contínua  aplicadas ao 
+desenvolvimento web. Aplicação de boas práticas de Interação Humano 
+Computador e Experiência do Usuário. Desenvolviment o Dirigido a Testes (TTD). 
+Metodologia proposta: Aprendizagem Baseada em 
+Projetos/Problemas/Desafios. Emprego de metodologia  ágil para gestão de 
+projetos. Nesta disciplina o professor é responsáve l por desenvolver um projeto 
+integrando as disciplinas do primeiro ao quarto sem estre, seguindo o Manual de 
+Projetos Interdisciplinares expedido pela CESU. 
+Instrumentos de avaliação:  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares. Validaç ão do projeto para inclusão 
+no Portfólio Digital do aluno.  
+Bibliografia Básica:    
+BROWN, E. Programação web com Node e Express: Beneficiando-se da stack 
+JavaScript.  São Paulo: Novatec, 2020. 
+DUCKETT, J. JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web 
+Interativas . Rio de Janeiro: Alta Books, 2016 
+FOWLER, S. Microsserviços Prontos Para a Produção : Construindo Sistemas 
+Padronizados em uma Organização de Engenharia de So ftware. São Paulo: 
+Novatec, 2017. 
+LOWDERMILK, T. Design Centrado no Usuário: um guia para o 
+desenvolvimento de aplicativos amigáveis. São Paulo : Novatec, 2013. 
+PERCIVAL, H. J. W. TDD com Python: Siga o Bode dos Testes: Usando 
+Django, Selenium e JavaScript. São Paulo: Novatec, 2017. 
+DUCKETT, J. HTML e CSS: Projete e Construa Websites. Rio de Janeiro: Alta 
+Books. 2016 
+CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua 
+certificação e aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: 
+Brasport, 2018. 
+Bibliografia Complementar:   
+HUMBLE, J.; FARLEY, D. Entrega Contínua : Como Entregar Software de Forma 
+Rápida e Confiável. Porto Alegre: Bookman, 2014. 
+MUELLER, J. P. Segurança Para Desenvolvedores web:  Usando JavaScript, 
+HTML e CSS. São Paulo: Novatec, 2016. 
+SILVERMAN, R. E. Git : guia prático. São Paulo: Novatec, 2019.  
+VITALINO, J. F. N; CASTRO, M. A. N. Descomplicando o Docker . 2 ed. São 
+Paulo, BRASPORT, 2018. 
+ 
+IAL-011 – INTERNET DAS COISAS E APLICAÇÕES - PRESEN CIAL - 80 
+Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver objetos inteligentes, com capacidade d e interação entre diversas tecnologias e 
+compor o cenário de Internet das Coisas. 
+• Implementar sistemas interativos, utilizando os mé todos e técnicas da Interação Humano 
+Computador para Desktop, Web, Tablet, Smartphone e para Internet das Coisas (IoT). 
+ 
+Objetivos de Aprendizagem:  
+• Analisar projetos para aplicar conceitos de IoT me lhorando a interação em 
+cenários.  
+• Identificar Sistemas Operacionais e Protocolos par a aplicações em 
+Internet das Coisas.  
+• Desenvolver aplicações para sensores e tags, com f oco em WSNs, com 
+capacidade de se comunicarem e compartilharem infor mações de 
+maneiras independentes.   
+Ementa:  Introdução, arquitetura e conceitos para desenvolv imento IoT. 
+Ambiente de desenvolvimento. Entradas e saídas digi tais e modulação por 
+largura de pulso.  Sensores analógicos e digitais. Acionamento de sensores e 
+atuadores. Barramentos, interface com telas, comuni cação sem fio, persistência 
+de dados e conexão com protocolos de comunicação. I mplementação e uso de 
+dashboard para consolidação de dados.  
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Emprego de metodologia ágil par a gestão de projetos.  
+Gamificação. Sala de Aula Invertida. Estudo de Caso  Real. Utilização de 
+simuladores e ambientes virtuais. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+JEREMY, B., Explorando o Arduino : Técnicas e ferramentas para mágicas de 
+engenharia, Rio de Janeiro: Alta Books, 2016 
+MAGRANI, Eduardo. A Internet das Coisas . Rio de Janeiro: FGV, 2018. 
+SILVA, J. S.; SILVA, BOAVIDA, F. Redes de Sensores Sem Fio . Editora FCA. 
+2016. 
+Bibliografia Complementar:   
+BATRINU, C. Projetos de Automação Residencial com ESP8266: Aproveite a 
+Potência Deste Minúsculo Chip Wi-Fi Para Construir Incríveis Projetos de Casas 
+Inteligentes. São Paulo: Novatec, 2018. 
+JEREMY, B., Explorando o Arduino: Técnicas e ferramentas para mágicas de 
+engenharia. Rio de Janeiro: Alta Books, 2016 
+McKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com 
+Pandas, NumPy e IPython. São Paulo: Novatec, 2018. 
+MCROBERTS, M.  Arduino Básico.  São Paulo, Novatec, 2015. 
+OLIVEIRA, S. Internet das Coisas com ESP8266, Arduino e Raspberr y Pi.   
+São Paulo: Novatec, 2017. 
+ZANETTI, H.A.P.; OLIVEIRA, C.L.V. Projetos com Python e Arduino: Como 
+Desenvolver Projetos Práticos de Eletrônica, Automa ção e IoT. São Paulo: 
+Editora Erica, 2020. 
+ 
+ILP-038 – PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS I - PRESENCIAL 
+– 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Avaliar as abordagens de desenvolvimento híbrido, multiplataforma ou nativo e selecionar a 
+melhor abordagem para atender a necessidade do clie nte. 
+• Utilizar linguagens de programação para dispositiv os móveis e raciocínio lógico adequados 
+para resolução de situações problema e ou desenvolv imento de projetos diversos. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender os fundamentos de desenvolvimento mobi le seus 
+aplicativos móveis e tecnologias.  
+• Utilizar ambiente de desenvolvimento: SDK, XDK, Fr ameworks e 
+ferramentas e  Material Design.  
+• Selecionar e utilizar Web Services e APIs para Map as e localização.  
+• Compreender e utilizar recursos de um determinado dispositivo.   
+• Selecionar e utilizar repositório de dados: SQLite  e Local Storage.  
+• Aplicar versionamento e documentação da aplicação.  
+Ementa:  Tipos de dispositivos móveis. Emuladores de dispos itivos móveis. 
+Sistemas operacionais móveis. Plataformas nativas. Introdução ao Material 
+Design. Ambientes para desenvolvimento de aplicaçõe s móveis. Linguagens 
+para desenvolvimento de aplicações móveis. Kits de desenvolvimento de 
+software (SDKs) para aplicações móveis nativas. Per sistência de Dados locais e 
+remotos.  Acesso a Geolocalização, câmera e outros recursos. Consumo e 
+criação de APIs. Desenvolvimento Dirigido a testes (TDD). Controle de 
+versionamento. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Emprego de metodologia ágil par a gestão de projetos. 
+Gamificação. Coding Dojo.  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+DEITEL, H.; DEITEL, A. Android para Programadores . 2 ed. Porto Alegre: 
+Bookman, 2015. 
+LECHETA, R. R. Desenvolvendo Para IPhone e IPad: Aprenda a Desenvolver 
+Aplicativos Utilizando iOS SDK.  6 ed. São Paulo: N ovatec, 2018. 
+GRIFFITHS D. Use a Cabeça! Desenvolvendo Para Android . 2 ed. Rio de 
+Janeiro: Alta Books, 2019.  
+MEDNIEKS, Z. et al. Programando o Android . São Paulo: Novatec, 2012. 
+Bibliografia Complementar: 
+GLAUBER, N. Dominando o Android com Kotlin . São Paulo: Novatec, 2019. 
+LECHETA, R. R. Google Android - aprenda a criar aplicações para 
+dispositivos móveis com o Android SDK. São Paulo: Novatec, 2015.  
+NEIL, T. Padrões de design para aplicativos móveis . São Paulo: Novatec 
+2012. 
+PILONE, D.; PILONE, T. Use a Cabeça! - Desenvolvendo Para iPhone e iPad : 
+O Guia Amigo do Seu Cérebro. Rio de Janeiro: Alta B ooks. 2013. 
+SIX, J. Segurança de aplicativos Android . São Paulo: Novatec, 2012. 
+ 
+ 
+MET-004 – ESTATÍSTICA APLICADA - PRESENCIAL - 80 Au las 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Aplicar princípios de matemática e estatística na solução de problemas complexos. 
+ 
+Objetivos de Aprendizagem:  
+• Aplicar conceitos de variável aleatória, medidas d e posição, dispersão e 
+métodos quantitativos, utilizados na estatística pa ra análise de dados e 
+no desenvolvimento de novas aplicações.  
+• Analisar resultados para propor soluções computaci onais aplicando 
+conceitos de desvio padrão e intervalo de erro. 
+• Compreender a análise de desempenho no desenvolvim ento de 
+aplicações, utilizando os conceitos de estatísticas  descritos junto ao 
+conhecimento de probabilidade, aplicando técnicas d e distribuição 
+contínua e discreta. 
+• Reproduzir gráficos com intervalos de erro e gerar  estimativas futuras 
+para novas aplicações e projetos. 
+Ementa : Amostragem. Probabilidades. Teorema de Bayes. Var iáveis Aleatórias. 
+Desvio Padrão. Medidas de central. Intervalo de Con fiança. Análise de Variância. 
+Inferência Estatística.  Teste de Hipótese. Regress ão Linear. 
+Metodologia proposta:  Aulas expositivas. Desenvolvimento de Projetos 
+baseados em problemas reais. Resolver problemas prá ticos na área de Ciência 
+de Dados 
+Instrumentos de avaliação:  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação Apresentação de  Projetos, por meio de 
+Pitch para entregas intermediárias. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para a entrega final uma apresentação dos res ultados obtidos. Inclusão do 
+resultado do projeto no Portfólio Digital do aluno.  Avaliação em pares e Trabalhos 
+Interdisciplinares. 
+Bibliografia Básica:   
+BUSSAB, W.O. e MORETTIN, P. A. Estatística Básica . 8 ed. São Paulo: 
+Saraiva, 2013. 
+GRUS, J. Data Science do Zero . Rio de Janeiro, Alta Books, 2016. 
+MAGALHÃES, M. N. & LIMA, A. C. P. Noções de Probabilidade e Estatística . 
+7 ed. São Paulo: Edusp, 2010. 
+TRIOLA, M.F. Introdução à Estatística: Atualização da Tecnologia. 11 ed. Rio 
+de Janeiro: LTC, 2011. 
+Bibliografia Complementar:   
+BRUCE, A., BRUCE, P., Estatística Prática para Cientistas de Dados . Alta 
+Books. 2019. 
+DOWNING, D. JEFFREY, Clark. Estatística Aplicada. 3 ed. São Paulo: Saraiva, 
+2011. 
+LARSON, R.; FARBER, B. Estatística Aplicada . 6 ed.  São Paulo: Pearson 
+2015. 
+TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão . São Paulo: 
+Novatec, 2019. 
+TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística . São Paulo: Novatec, 
+2010. 
+ 
+IHC-005 – EXPERIÊNCIA DO USUÁRIO – PRESENCIAL - 40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empregar conceitos de Experiência do Usuário (UX) e Experiência do Consumidor (CX) para 
+elaboração de perfil do usuário/consumidor, persona s, jornada do usuário/consumidor e 
+pontos de contato. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar conceitos de Experiência do Usuário, Interface 
+Gráfica do Usuário e Experiência do Consumidor.  
+• Criar e gerenciar pesquisas Quantitativas e Qualit ativas. 
+• Criar e avaliar o perfil do usuário e personas.  
+• Empregar conceitos, técnicas e ferramentas de IA n a pesquisa de 
+comportamento de usuário. 
+Ementa: Experiência do Usuário e Experiência do Consumidor.  Design de 
+Serviço. Perfil do Usuário. Emprego da Inteligência  Artificial para construção do 
+perfil do usuário/consumidor. Jornadas de Experiênc ia. Personas. Pesquisas 
+com usuário: Qualitativa, Quantitativa, Atitudinal,  Comportamental, Teste A/B, 
+Mapa de Calor, Monitoramento de Clicks e Funil, Etn ografia, Design 
+Participativo, Teste de Conceito, Teste de Desejabi lidade, Pesquisa de 
+Satisfação. Redação para UX. Negócios Digitais. Exp eriência do Usuário para 
+Computação Ubíqua e Internet das Coisas.  
+Metodologia proposta:  Aulas Expositivas. Design Thinking . Aprendizagem 
+Baseada em Projetos/Problemas. Emprego de metodolog ia ágil para gestão de 
+projetos. Estudo de Caso Real. Trabalhos Interdisci plinares desenvolvidos, 
+seguindo o Manual de Projetos Interdisciplinares ex pedido pela CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Realização de pesquisas para p rática. Análise e Resolução 
+de Problemas acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Protótipos. Projetos. Trabalhos  Interdisciplinares.  
+Bibliografia Básica:   
+GRANT, W. UX Design: guia definitivo com as melhores práticas de UX. São  
+Paulo: Novatec, 2019. 
+LOWDERMILK, T. Design centrado no usuário: um guia para o 
+desenvolvimento de aplicativos amigáveis. São Paulo : Novatec, 2013. 
+TEIXEIRA, F. Introdução e Boas Práticas em Ux Design . São Paulo: Casa do 
+Código, 2014. 
+YABLONSKI, J. Leis da Psicologia Aplicadas a UX: usando psicologia para 
+projetar produtos e serviços melhores. São Paulo: N ovatec, 2020.  
+Bibliografia Complementar:   
+KALBACH, J. Mapeamento de Experiências: um guia para criar valor por meio 
+de jornadas, blueprints e diagramas. Rio de Janeiro : Altas Books, 2017. 
+PODMAJERSKEY, T. Redação estratégica para UX: aumente engajamento, 
+conversão e retenção com cada palavra. São Paulo, N ovatec, 2019. 
+ 
+ING-086 – INGLÊS II – PRESENCIAL - 40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver comunicação interpessoal, compreensão e interpretação elementar em 
+situações familiares cotidianas e profissionais que  envolvam expressão de ideias, negociação, 
+análise e elaboração de documentos, gráficos, diagr amas e símbolos em inglês. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e produzir textos orais e escritos de relevância para a 
+atuação profissional.  
+• Fazer pedidos (pessoais ou profissionais), descrev er rotina de trabalho, 
+atender telefonemas, dar e anotar recados simples a o telefone, redigir 
+notas e mensagens simples.  
+• Reconhecer a entoação e o uso dos diferentes fonem as da língua. Fazer 
+uso de estratégias de leitura e compreensão oral pa ra entender pontos 
+principais de textos orais e escritos da sua área d e atuação. 
+Ementa : Apropriação de estratégias de aprendizagem (estra tégias de leitura, de 
+compreensão e de produção oral e escrita) e repertó rio relativo a funções 
+comunicativas e estruturas, com o intuito de utiliz ar essas habilidades nos 
+contextos pessoal, acadêmico e profissional.  
+Ênfase nas habilidades comunicativas necessárias pa ra o desenvolvimento de 
+tarefas relacionadas à atuação profissional. 
+Metodologia proposta:  Aulas expositivas dialogadas. Dramatização (role-p lay). 
+Atividades em pares/grupos. Gamificação 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática e prod ução oral e escrita ao longo 
+do curso (com feedback e plano de ações) 
+Avaliação Somativa: Provas ou trabalhos em grupo qu e avaliem tanto a escrita 
+e leitura, quanto a oralidade e compreensão auditiv a. 
+Bibliografia Básica:   
+HUGES, John et al. Business Result: Elementary. Student Book Pack . 
+Oxford: New York: Oxford University Press, 2017. 
+IBBOTSON, Mark; STEPHENS, Bryan. Business Start-up: Student Book 1.  
+Cambridge: Cambridge University Press, 2015. 
+OXENDEN, Clive; LATHAM -KOENIG, Christina. American English File: 
+Student’s Book 1 . New York, NY: Oxford University Press, 2018. 
+Bibliografia Complementar:   
+CARTER, Ronald.; NUNAN, David. Teaching English to Speakers of other 
+languages . Cambridge: Cambridge University Press, 2015. 
+CLARKE, Simon. In Company 3.0 Elementary Level Student’s Book  Pack . 
+London, MacMillan Publishers Ltd, 2015.  
+LONGMAN. Dicionário Longman Escolar para Estudantes Brasilei ros . 
+Português-Inglês/Inglês-Português com CD-Rom. 2ª Ed ição: Atualizado com as 
+novas regras de Ortografia. São Paulo: Pearson Educ ation do Brasil, 2009. 
+MURPHY, Raymond. Essential Grammar in Use CD-Rom with answers . 
+Fourth Edition. Cambridge, 2015. 
+ 
+Quinto Semestre 
+ 
+Período  Sigla Relação de Componentes Modalidade 
+ Aulas Semestrais Total de 
+Aulas 
+Semestrais Sala de Aula  Laboratório  Remota - 
+Síncrona 5o semestre  ISW-034  Computação em Nuvem I  Presencial  - 80 - 80 
+MAQ -
+024  Aprendizagem de Máquina   Presencial  - 80 - 80 
+ISW-036  Lab. de Des. para Dispositivos Móveis   Presencial  - 80 - 80 
+ILP-039  Programação para Dispositivos Móveis 
+II  Presencial  - 80 - 80 
+ISG-022  Segurança no Des. de Aplicações  Presencial  - 80 - 80 
+POR -
+040  Fundamentos da Redação técnica  Remota - - 40 40 
+ING-087  Inglês III Remota - - 40 40 
+Total de aulas semestrais - 400 80 480  
+ 
+Competências Socioemocionais desenvolvidas transver salmente em todos os 
+componentes deste semestre  
+• Demostrar capacidade de resolver problemas complexo s e propor soluções criativas e 
+inovadoras.  
+• Desenvolver a visão sistêmica, identificando soluç ões, respeitando aspetos culturais, 
+éticos, ambientais e sociais no âmbito local, regio nal e internacional. 
+• Evidenciar o uso de pensamento crítico em situaçõe s adversas. 
+• Empreender ações inovadoras, analisando criticamen te a organização, antecipando e 
+promovendo transformações. 
+• Administrar conflitos quando necessário, estabelec er relações e propor um ambiente 
+colaborativo, incentivando o trabalho em equipe. 
+• Atuar de forma autônoma na realização de atividade s profissionais e na execução de 
+projetos. 
+• Elaborar, gerenciar e apoiar projetos identificand o oportunidades e avaliando os riscos 
+inerentes. 
+• Comunicar-se, tanto na língua materna como em língu a estrangeira.  
+ 
+ 
+ISW-034 - COMPUTAÇÃO EM NUVEM I – PRESENCIAL- 80 Au las  
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Identificar as necessidades dos projetos buscando adaptá-las aos mais diversos meios de 
+hospedagem, Compartilhado, Cloud, Virtual Private S erver, Colocation e Servidor 
+Dedicado, utilizando o recurso adequado de cada um.  
+• Implantar sistemas nas diversas infraestruturas de  Redes de Computadores, buscando a 
+melhor performance. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar os conceitos de computação e m nuvem e sua 
+infraestrutura, os principais serviços e utilização .  
+• Especificar e aplicar os princípios de Virtualizaç ão.  
+• Compreender e aplicar padrões e ferramentas para d ocumentação de 
+APIs, contemplando as normas de segurança.  
+Ementa : Contextualização dos sistemas de computação em nu vem. Introdução: 
+Nuvens privadas, públicas e híbridas. Característic as: Autoatendimento sob 
+demanda, amplo acesso à rede, Pool de Recursos, Ela sticidade, Mensurável. 
+Desafios da computação em nuvem:  áreas de seguranç a, privacidade, legado e 
+cultura. Principais modelos de computação em nuvem:  Infraestrutura como 
+Serviço (IaaS), Plataforma como Serviço (PaaS) e So ftware como Serviço 
+(SaaS). Introdução sobre virtualização e tipos de v irtualização. Técnicas de 
+virtualização de recursos computacionais; Virtualiz ação Total e 
+Paravirtualização. Recursos da Virtualização. 
+Metodologia proposta:  Aulas expositivas. Desenvolvimento de Projetos 
+baseados em problemas reais. Emprego de metodologia  ágil para gestão de 
+projetos. Utilização de Ambientes de Virtualização e sala de aula invertida. 
+Trabalhos Interdisciplinares, seguindo o Manual de Projetos Interdisciplinares 
+expedido pela CESU. 
+Instrumentos de avaliação : 
+Avaliação Formativa: Realização de pesquisas para p rática. Apresentação de 
+Projetos, por meio de Pitch, para entregas intermed iárias. Análise e resolução de 
+problemas acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch, para entrega final e validação do projeto pa ra inclusão no Portfólio Digital 
+do aluno. Trabalhos Interdisciplinares.  
+Bibliografia Básica 
+CHEE J. S. B.; JUNIOR FRANKLIN C.; Computação em Nuvem: Cloud 
+Computing Tecnologias e Estratégias. São Paulo: M. Books. 2013. 
+VERAS, Manoel. Cloud Computing: Nova Arquitetura de TI. Rio de Janeiro: 
+Brasport, 2012.  
+VERAS, Manoel. Virtualização: Tecnologia Central do Datacenter. Rio de 
+Janeiro:  Brasport, 2016. 
+Bibliografia Complementar:   
+ANTUNES L. J.; Amazon AWS: Descomplicando a computação na nuvem. São 
+Paulo: Casa do Código. 2016 
+ARUNDEL J.; DOMINGUS J.; DevOps Nativo de Nuvem com Kubernetes: 
+Como Construir, Implantar e Escalar Aplicações Mode rnas na Nuvem. são 
+Paulo: Novatec, 2019. 
+MOLINARI, L . Cloud Computing: A inteligência na nuvem e seu novo valor em 
+TI. São Paulo: Érica/Saraiva, 2017.  
+TAURION, Cesar. Cloud Computing - Computação em Nuvem: transportando 
+o mundo da tecnologia da informação. Rio de Janeiro : Brasport, 2009 
+ 
+MAQ-024 – APRENDIZAGEM DE MÁQUINA - PRESENCIAL - 80  Aulas  
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Aplicar linguagens voltadas a inteligência artific ial para atender as particularidades de 
+desenvolvimento de projetos específicos. 
+• Aplicar linguagens de programação back-end e racio cínio lógico adequados para resolução 
+de situações problema e ou desenvolvimento de proje tos diversos. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e utilizar os principais paradigmas de  aprendizagem de 
+máquina.  
+• Aplicar os algoritmos e técnicas de aprendizagem, redes neurais e 
+métodos probabilísticos, empregando uma linguagem d e programação.  
+Ementa : O que é aprendizagem de máquina. Redes Neurais. M étodos 
+probabilísticos. Tarefas de aprendizagem. Aplicaçõe s de aprendizagem de 
+máquina. Viés indutivo. Aprendizagem descritiva e p reditiva. Preparação de 
+dados. Algoritmos de aprendizagem de máquina. Lingu agem de programação 
+para Aprendizagem de Máquina. Medidas de avaliação de resultados. 
+Metodologia proposta:  Aulas expositivas.  Desenvolvimento de Projetos 
+baseados em problemas reais. Emprego de metodologia  ágil para gestão de 
+projetos. Utilização de Ambientes de Virtualização e sala de aula invertida. 
+Trabalhos Interdisciplinares, seguindo o Manual de Projetos Interdisciplinares 
+expedido pela CESU. 
+Instrumentos de avaliação : 
+Avaliação Formativa: realização de pesquisas para p rática. Apresentação de 
+Projetos, por meio de Pitch, para entregas intermed iárias. Análise e resolução de 
+problemas acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch, para entrega final e validação do projeto pa ra inclusão no Portfólio Digital 
+do aluno. Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+FACELI, K. et al. Inteligência Artificial: Uma Abordagem de Aprendizado de 
+Máquina. Rio de Janeiro: LTC, 2011 
+GRUS, J. Data Science do Zero . Rio de Janeiro: Alta Books, 2016. 
+MUELLER, J. P., MASSARON, L. Aprendizado de Máquina Para Leigos . Rio 
+de Janeiro: Alta Books, 2019. 
+Bibliografia Complementar:   
+CARVALHO, A. Inteligência Artificial: Uma Abordagem de Aprendizado de 
+Máquina. Rio de Janeiro:  LTC – 2011. 
+GÉRON, A. Mãos à Obra : Aprendizado de Máquina com Scikit-Learn & 
+TensorFlow. Rio de Janeiro: Alta Books, 2019. 
+MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com 
+Pandas, NumPy e IPython. São Paulo: Novatec, 2018. 
+MUELLER, J. P., MASSARON, L. Python Para Data Science Para Leigos . 2 
+ed. Rio de Janeiro: Alta Books, 2020. 
+NORVIG, P. Inteligencia Artificial .  3 ed. Rio de Janeiro: LTC, 2013 
+TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão . São Paulo: 
+Novatec, 2019. 
+TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística . São Paulo: Novatec, 
+2010. 
+ 
+ISW-036 – LABORATÓRIO DE DESENVOLVIMENTO PARA DISPO SITIVOS 
+MOVÉIS– PRESENCIAL – 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empreender, exercer a liderança, identificar oport unidades de mudanças e projetar soluções 
+inovadoras baseadas em tecnologias da informação na s organizações. 
+• Todas as competências desenvolvidas, do primeiro a o quinto semestres, poderão ser 
+associadas no desenvolvimento do projeto desta disc iplina. 
+ 
+Objetivos de Aprendizagem:  
+• Implementar um software aplicando conhecimentos de  engenharia de 
+software, programação e gerência de projetos.  
+• Utilizar desenvolvimento front-end e back-end inte grando as aplicações 
+desktop, web e mobile em projetos que atendam os re quisitos de 
+transparência das aplicações. 
+Ementa : Desenvolvimento de um aplicativo móvel nativo ou híbrido, 
+empregando os princípios de design. Utilização de s istemas para gestão de 
+configuração e controle de versão de artefatos de p rojeto. Aplicação de boas 
+práticas de segurança da informação durante o desen volvimento do aplicativo. 
+Testes A/B. Integração e Entrega Contínua. Desenvol vimento Dirigido a testes 
+(TDD). Controle de versionamento. UX Canvas. 
+Metodologia proposta: Aprendizagem Baseada em 
+Projetos/Problemas/Desafios. Emprego de metodologia  ágil para gestão de 
+projetos. Nesta disciplina o professor é responsáve l por desenvolver um projeto 
+integrando as disciplinas do primeiro ao quinto sem estre, seguindo o Manual de 
+Projetos Interdisciplinares expedido pela CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. Apresentação d e Projetos, por meio de 
+Pitch para entregas intermediárias. Desafios de Pro gramação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para a entrega final uma apresentação dos res ultados obtidos.  Validação 
+do projeto Inclusão do resultado no Portfólio Digit al do aluno. Avaliação em pares 
+e Trabalhos Interdisciplinares.  
+Bibliografia Básica: 
+AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development , 
+Apress, 2019. 
+GAD, A. F. M. Building Android Apps in Python Using Kivy with And roid 
+Studio: With Pyjnius, Plyer, and Buildozer.  2019. 
+GLAUBER, N. Dominando o Android com Kotlin . São Paulo: Novatec, 2019. 
+GRANT, W. UX Design: guia definitivo com as melhores práticas de UX. São  
+Paulo: Novatec, 2019. 
+LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São 
+Paulo: Casa do Código. 2016. 
+NEIL, T. Padrões de design para aplicativos móveis . São Paulo: Novatec 
+2012. 
+SIX, J. Segurança de aplicativos Android . São Paulo: Novatec, 2012. 
+CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua 
+certificação e aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: 
+Brasport, 2018. 
+Bibliografia Complementar:   
+DABIT, NADER; React Native in Action Developing iOS and Android a pps 
+with JavaScript,  Manning Publications, 2019. 
+ARAUJO, E. C. Xamarin Forms: Desenvolvimento de aplicações móveis 
+multiplataforma. São Paulo: Casa do Código, 2017. 
+MARINHO, L. H. Iniciando com Flutter Framework: Desenvolva aplicações 
+móveis no Dart Side! São Paulo: Casa do Código, 202 0.  
+SARAH. A. Desenvolvimento Profissional Multiplataforma para 
+Smartphone . Rio de Janeiro, 2012. 
+ 
+ILP-039 – PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS II -  PRESENCIAL 
+- 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Avaliar as abordagens de desenvolvimento híbrido, multiplataforma ou nativo e selecionar a 
+melhor abordagem para atender a necessidade do clie nte. 
+• Utilizar linguagens de programação para dispositiv os móveis e raciocínio lógico adequados para 
+resolução de situações problema e ou desenvolviment o de projetos diversos. 
+ 
+Objetivos de Aprendizagem:  
+• Desenvolver aplicativos para dispositivos móveis d e forma híbrida para as 
+plataformas Android e iOS, utilizando linguagens e ambientes que 
+garantam essa interação.  
+• Criar aplicações utilizando abordagem em Interface , Eventos, Props, 
+State, Navegação, Multimídia, Notificações, Persist ência de dados, UX, 
+Serviços RESTFul, Integrações, Design Patterns. Uti lizar sensores IoT 
+para capturar dados e tratar na aplicação.  
+• Aplicar versionamento e documentação da aplicação.  
+Ementa : Definição de aplicação híbrida. Funcionamento de uma aplicação 
+híbrida. Linguagens e frameworks para desenvolvimen to de aplicações móveis 
+híbridas e nativas.   Modelagem e implementação de uma aplicação híbrida 
+centrada no usuário. Componentes de interface da ap licação híbrida. Acesso a 
+dados em um servidor. Construção de uma API RESTful . Persistência de Dados 
+locais e remotos. Utilizar sensores IoT para captur ar dados e tratar na aplicação.  
+Uso de recursos nativos dos smartphones, como badge s, agenda e câmera. 
+Execução da aplicação em simuladores e em dispositi vos. Desenvolvimento 
+Dirigido a testes (TDD). Controle de versionamento.  
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Coding Dojo.  
+Avaliação Formativa: exercícios para prática, análi se e resolução de problemas 
+acompanhado de rubrica de avaliação.                                   
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+AKSHAT PAUL, ABHISHEK NALWAYA; React Native for Mobile Development , 
+Apress, 2019. 
+ARAUJO, E. C. Ionic 4: Desenvolvimento multiplataforma para dispositivos 
+móveis. São Paulo: Casa do Código. 2020. 
+PINHO, D. M., ESCUDELARIO, B. React Native: Desenvolvimento de 
+aplicativos mobile com React . São Paulo: Casa do Código. 2020. 
+SARAH. A. Desenvolvimento Profissional Multiplataforma para 
+Smartphone . Rio de Janeiro, 2012. 
+SOUZA, N. Cordova avançado e PhoneGap: Um guia detalhado do zero à 
+publicação . São Paulo: Casa do Código. 2018. 
+ZAMMETTI, F. Flutter na Prática: Melhore seu Desenvolvimento Mobile com o 
+SDK Open Source Mais Recente do Google. São Paulo: Novatec, 2020. 
+Bibliografia Complementar:   
+ARAUJO, E. C. Xamarin Forms: Desenvolvimento de aplicações móveis 
+multiplataforma. São Paulo: Casa do Código, 2017. 
+DABIT, NADER; React Native in Action Developing iOS and Android a pps 
+with JavaScript,  Manning Publications, 2019. 
+GAD, A. F. M. Building Android Apps in Python Using Kivy with And roid 
+Studio: With Pyjnius, Plyer, and Buildozer.  2019. 
+HARMES, D. Desenvolvimento de Aplicativos Móveis com Xamarin 
+Fundamentos do Xamarin. Forms e da criação de códig os C# 
+multiplataforma . São Paulo: Novatec, 2015.  
+LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap. São 
+Paulo: Casa do Código. 2016. 
+MARINHO, L. H. Iniciando com Flutter Framework: Desenvolva aplicações 
+móveis no Dart Side! São Paulo: Casa do Código, 202 0.  
+ 
+ISG-022 – SEGURANÇA NO DESENVOLVIMENTO DE APLICAÇÕE S - 
+PRESENCIAL – 80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Aplicar técnicas de segurança da informação na est ruturação e desenvolvimento de banco 
+de dados no atendimento das necessidades do projeto  e na segurança dos dados.  
+• Desenvolver softwares baseados em metodologias e t écnicas de programação que visam a 
+segurança das aplicações e do usuário. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender o pilar de Segurança da Informação e e mpregar técnicas 
+de programação segura para o desenvolvimento de apl icações Web, na 
+proteção os dados de entrada dos usuários.  
+• Compreender e utilizar conceitos de SQL Injection,  para testar as 
+vulnerabilidades das aplicações.  
+• Aplicar técnicas de validação ou codificação, para  assegurar as 
+mensagens enviadas ao navegar.  
+• Realizar armazenamento seguro das informações, com  a utilização de 
+autenticidade e criptografia. 
+Ementa:  Conceitos fundamentais do pilar de segurança: conf idencialidade, 
+integridade, disponibilidade e autenticidade. Gestã o de Vulnerabilidades e 
+resposta à incidentes de segurança. Redução da supe rfície de ataque, defesa 
+em profundidade, menor privilégio, padrões seguros,  modelagem de ameaças, 
+ferramenta para diagramação e enumeração de ameaças , testes de segurança, 
+Fuzz testing, Teste de invasão, Injeção de SQL, Cro ss-Site Scripting (XSS),  
+aplicação de conceitos de OWASP (Open Web Applicati on Security Project) e 
+SDL (Security Development Lifecycle), Revisão de có digo. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Sala de Aula Inver tida. Estudo de Caso Real. 
+Utilização de simuladores e ambientes virtuais. Tra balhos Interdisciplinares, 
+seguindo o Manual de Projetos Interdisciplinares ex pedido pela CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Segurança e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+MORENO D. Pentest em aplicações web . São Paulo: Novatec, 2017.  
+MUELLER J. P. Segurança para desenvolvedores web . São Paulo: Novatec 
+,2016. 
+SEITZ J. Black Hat Python: Programação Python Para Hackers e Pentesters. 
+São Paulo: Novatec, 2015.  
+Bibliografia Complementar:   
+ABNT. Tecnologia da informação – Código de prática para a gestão da 
+segurança da informação (NBR ISO/IEC 17799).  Rio de Janeiro, RJ: 2001.     
+FERREIRA, Rodrigo. Segurança em aplicações Web . São Paulo: Casa do 
+Código, 2017.  
+WEIDMAN G. Testes de Invasão: Uma introdução prática ao hacking. São 
+Paulo: Novatec, 2014. 
+ 
+POR-040 – FUNDAMENTOS DA REDAÇÃO TÉCNICA – REMOTA -  40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver comunicação interpessoal, compreensão e interpretação em situações que 
+envolvam expressão de ideias, negociação, análise e  elaboração de documentos, gráficos, 
+diagramas e símbolos em português. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender a função da comunicação e da informaçã o no contexto de 
+formação do curso.  
+• Desenvolver a capacidade de organizar as ideias de  modo claro, preciso 
+e criativo, para fazer apresentações e redigir text os.  
+• Compreender a organização textual e as característ icas dos gêneros e 
+tipologias textuais voltados para textos da área de  formação, como 
+laudos, pareceres e relatórios técnicos.  
+• Compreender os mecanismos de coerência e coesão ap licados nas 
+produções de textos da área de formação . 
+Ementa : Informação e Comunicação: conceitos e aplicações no contexto 
+comunicativo da área de atuação do curso. Tipologia s e gêneros textuais: 
+definições, contextos, finalidades, textualização, intertextualização, 
+hipertextualização, multimodalismo e multiletrament o, voltados à área de 
+formação. Conhecimento e Produção Textual Técnica p ara traduzir ideias, 
+descrever objetos, demonstrar funcionamentos e rela tar processos.   
+Mecanismos de coesão e coerência aplicados em texto s da área de formação. 
+Metodologia proposta:  Aulas expositivas dialogadas. Atividades em 
+pares/grupos. Sala de aula invertida. 
+Instrumentos de avaliação :  
+Avaliação Formativa - exercícios para prática e pro dução escrita ao longo do 
+curso (com feedback e plano de ações).  
+Avaliação Somativa - Provas ou trabalhos em grupo q ue avaliem a escrita. 
+Trabalhos interdisciplinares.  
+Bibliografia Básica:   
+ANDRADE, M. M.; HENRIQUES, A. Língua Portuguesa: noções básicas para 
+cursos superiores. 9 ed. São Paulo: Atlas, 2009. 
+DINTEL, F. Como escrever textos técnicos e profissionais . São Paulo: 
+Gutenberg, 2011. 
+LOUZADA, M. S.; GOLDSTEIN, N. S.; IVAMOTO, R. O texto sem mistério: 
+leitura e escrita na universidade. São Paulo: Ática , 2018. 
+Bibliografia Complementar:   
+FARACO, C. A.; TEZZA, C. Prática de Texto: para estudantes universitários. 24 
+ed. Petrópolis: Vozes, 2016. 
+MARCUSCHI, L. A. Produção Textual, Análise de Gêneros e Compreensão . 
+São Paulo: Parábola Editorial, 2008. 
+ 
+ING-087 – INGLÊS III – REMOTA - 40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Desenvolver comunicação interpessoal, compreensão e interpretação elementar em situações 
+familiares cotidianas e profissionais que envolvam expressão de ideias, negociação, análise e 
+elaboração de documentos, gráficos, diagramas e sím bolos em inglês. 
+ 
+Objetivos de Aprendizagem:  
+• Fazer uso de estratégias de leitura e compreensão oral para identificar os 
+pontos principais de textos orais e escritos da sua  área de atuação.  
+• Comunicar-se em situações do cotidiano, descrever habilidades, 
+responsabilidades e experiências profissionais.  
+• Descrever eventos passados.  
+• Compreender dados numéricos em gráficos e tabelas.   
+• Redigir documentos e e-mails comerciais simples.  
+• Desenvolver a entoação e o uso dos diferentes fone mas da língua. 
+Ementa : Expansão das habilidades de compreensão e produçã o oral e escrita 
+de relevância para a atuação profissional, por meio  do uso de estratégias de 
+leitura e de compreensão oral, de estratégias de pr odução oral e escrita, de 
+funções comunicativas e estruturas linguísticas apr opriadas para atuar nos 
+contextos pessoal, acadêmico e profissional. Ênfase  nas habilidades 
+comunicativas necessárias para o desenvolvimento de  tarefas relacionadas à 
+atuação profissional. 
+Metodologia proposta:  Aulas expositivas dialogadas. Dramatização (role-p lay). 
+Atividades e trabalhos em pares/grupos. Gamificação .  
+Instrumentos de avaliação : 
+ Avaliação Formativa - exercícios para prática e pr odução oral e escrita ao longo 
+do curso (com feedback e plano de ações).  
+Avaliação Somativa - Provas ou trabalhos em grupo q ue avaliem tanto a escrita 
+e leitura, quanto a oralidade e compreensão auditiv a. Trabalhos 
+interdisciplinares. Diário de bordo. Autoavaliação / Rubricas. 
+Bibliografia Básica:   
+HUGES, John et al. Business Result: Elementary. Student Book Pack . 
+Oxford: New York: Oxford University Press, 2017. 
+IBBOTSON, Mark; STEPHENS, Bryan. Business Start-up: Student Book 1 . 
+Cambridge: Cambridge University Press, 2015. 
+OXENDEN, Clive; LATHAM -KOENIG, Christina. American English File: 
+Student’s Book 1.  New York, NY: Oxford University Press, 2018. 
+Bibliografia Complementar:  
+CARTER, Ronald.; NUNAN, David.  Teaching English to Speakers of other 
+languages. Cambridge: Cambridge University Press, 2015. 
+CLARKE, Simon. In Company 3.0 Elementary Level Student’s Book Pack . 
+London, MacMillan Publishers Ltd, 2015.  
+LONGMAN. Dicionário Longman Escolar para Estudantes Brasilei ros.  
+Português-Inglês/Inglês-Português com CD-Rom. 2 ed:  Atualizado com as novas 
+regras de Ortografia. São Paulo: Pearson Education do Brasil, 2009. 
+MURPHY, Raymond. Essential Grammar in Use CD-Rom with answers . 
+Fourth Edition. Cambridge, 2015. 
+ 
+ 
+ 
+ 
+Sexto Semestre 
+ 
+Período  Sigla  Relação de Componentes  
+Modalidade 
+ Aulas Semestrais Total de 
+Aulas 
+Semestrais Sala de Aula  Laboratório  Remota - 
+Síncrona 6o semestre  ISW -
+035  Computação em Nuvem II Remota - - 80 80 
+ISW -
+037  Processamento de Linguagem 
+Natural Remota - - 80 80 
+ISW -
+038  Laboratório de Des. Multiplataforma Semipresencial  - 20 60 80 
+ISW -
+039  Mineração de Dados  Remota - - 80 80 
+IQS -
+004  Qualidade e Testes de Software Remota - - 80 80 
+DDI -
+009  Ética Profissional e Patente Remota - - 40 40 
+ING -
+088  Inglês IV   Remota - - 40 40 
+Total de aulas semestrais - 20  460 480  
+ 
+Competências Socioemocionais desenvolvidas transver salmente em todos os 
+componentes deste semestre  
+• Demostrar capacidade de resolver problemas complexo s e propor soluções criativas e 
+inovadoras.  
+• Desenvolver a visão sistêmica, identificando soluç ões, respeitando aspetos culturais, 
+éticos, ambientais e sociais no âmbito local, regio nal e internacional. 
+• Evidenciar o uso de pensamento crítico em situaçõe s adversas. 
+• Empreender ações inovadoras, analisando criticamen te a organização, antecipando e 
+promovendo transformações. 
+• Administrar conflitos quando necessário, estabelec er relações e propor um ambiente 
+colaborativo, incentivando o trabalho em equipe. 
+• Atuar de forma autônoma na realização de atividade s profissionais e na execução de 
+projetos. 
+• Elaborar, gerenciar e apoiar projetos identificand o oportunidades e avaliando os riscos 
+inerentes. 
+• Comunicar-se, tanto na língua materna como em língu a estrangeira.  
+ 
+ 
+ISW-035 - COMPUTAÇÃO EM NUVEM II – REMOTA - 80 Aula s 
+Competências Profissionais desenvolvidas neste comp onente  
+• Identificar as necessidades dos projetos buscando adaptá-las aos mais diversos meios de 
+hospedagem, Compartilhado, Cloud , Virtual Private Server , Colocatio n e Servidor 
+Dedicado, utilizando o recurso adequado de cada um.  
+• Implantar sistemas nas diversas infraestruturas de  Redes de Computadores, buscando a 
+melhor performance. 
+ 
+Objetivos de Aprendizagem:  
+• Identificar e criar um ambiente de Computação em N uvem, utilizando 
+princípios de alta disponibilidade.   
+• Identificar e migrar uma estrutura baseada em Data  Center Local para a 
+uma solução em nuvem.  
+• Projetar e operar arquiteturas de sistemas confiáv eis, seguros, eficientes 
+e econômicos na nuvem.  
+Ementa : Modelos de Negócios na Nuvem. Armazenamento de Da dos em 
+Nuvem ( File System  em Nuvem). Gerenciamento de Dados em Nuvem e Backu p 
+Remoto. Gerenciamento e Monitoramento de Serviços e m Nuvem. Aplicações 
+em Nuvem ( Azure / AWS / Google Cloud ). Migração de Aplicações para Nuvem. 
+Desenvolvimento de Software com a Nuvem. Replicação  de Serviços e Dados 
+em Nuvem 
+Metodologia proposta:  Aulas expositivas. Desenvolvimento de Projetos 
+baseados em problemas reais. Emprego de metodologia  ágil para gestão de 
+projetos. Utilização de Ambientes de Virtualização e sala de aula invertida. 
+Instrumentos de avaliação : 
+Avaliação Formativa: Realização de pesquisas para p rática. Apresentação de 
+Projetos, por meio de Pitch para entregas intermedi árias. Análise e Resolução 
+de Problemas acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para entregas para a entrega final e validaçã o do projeto para inclusão no 
+Portfólio Digital do aluno. Trabalhos Interdiscipli nares.  
+Bibliografia Básica: 
+LECHETA, Ricardo R. AWS para desenvolvedores . São Paulo: Novatec, 2014.  
+MOLINARI, L . Cloud Computing: A inteligência na nuvem e seu novo valor em 
+TI. São Paulo: Érica/Saraiva, 2017.  
+VELTE, A. Cloud Computing. Computação em Nuvem: uma Abordagem 
+Prática . São Paulo: Alta Books, 2015. 
+Bibliografia Complementar:   
+ARUNDEL J.; DOMINGUS J.; DevOps Nativo de Nuvem com Kubernetes : 
+Como Construir, Implantar e Escalar Aplicações Mode rnas na Nuvem. São 
+Paulo: Novatec, 2019 
+KAVIS, Michael J. Architecting the Cloud:  Design Decisions for Cloud 
+Computing Service Models (SaaS, PaaS  and  IaaS ).  Wiley, 2014.  
+PORTNOY, M. Virtualization Essentials.  New York: Sybex, 2012. 
+    STIGLER, M. Beginning Serverless Computing: Developing with Amazon Web      
+Services, Microsoft Azure, and Google Cloud. Apress , 2017.  
+ 
+ISW-037  – PROCESSAMENTO DE LINGUAGEM NATURAL – REM OTA – 80 
+Aulas  
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Selecionar e empregar tecnologias de inteligência artificial aplicáveis ao desenvolvimento de 
+aplicações para dispositivos móveis e web. 
+ 
+Objetivos de Aprendizagem:  
+• Empregar técnicas e teorias de Inteligência Artifi cial aplicada ao 
+Processamento de Linguagem Natural.  
+• Compreender e aplicar técnicas e métodos para cons trução de recursos, 
+ferramentas e aplicações de PLN. 
+• Construir mecanismos artificias que permitam o ent endimento de 
+linguagem natural para realizar tarefas ou aplicaçõ es. 
+• Empregar linguagens de programação para o desenvol vimento de 
+soluções. 
+Ementa : Processamento de linguagem natural. Aplicações de  processamento 
+de linguagem natural. Processamento de texto. Extra ção de características 
+(features). Análise sintática. Interpretação semânt ica. Gramáticas. Descoberta 
+de conhecimento em textos ( Knowledge Discovery in Texts ). Análise de 
+sentimentos. Aprendizagem de máquina aplicada ao pr ocessamento de 
+linguagem natural. Reconhecimento de voz. 
+Metodologia proposta:  Aulas expositivas. Desenvolvimento de Projetos 
+baseados em problemas reais. Emprego de metodologia  ágil para gestão de 
+projetos. Utilização de Ambientes de Virtualização e sala de aula invertida. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Realização de pesquisas para p rática. Apresentação de 
+Projetos, por meio de Pitch para entregas intermedi árias. Análise e Resolução 
+de Problemas acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para entregas para a entrega final e validaçã o do projeto para inclusão no 
+Portfólio Digital do aluno. Trabalhos Interdiscipli nares.   
+Bibliografia Básica:   
+FERREIRA, M., LOPES, M. Para conhecer linguística computacional . São 
+Paulo: Contexto, 2019  
+RAJ, S. Construindo Chatbots com Python: Usando Natural Language 
+Processing e Machine Learning. São Paulo: Novatec, 2019. 
+RUSSEL, M.A. Mineração de Dados da Web Social: Análise de dados do 
+Facebook, Twitter, Linkedin e outros sites de mídia  socia l. São Paulo: Novatec, 
+2019. 
+Bibliografia Complementar:   
+GÉRON, A. Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & 
+TensorFlow. Rio de Janeiro: Alta Books, 2019. 
+HOBSON, L., COLE, H., HANNES, H. Natural Language Processing in Action: 
+Understanding, analyzing, and generating text with Python. Manning, 2019. 
+MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com 
+Pandas, NumPy e IPython. São Paulo: Novatec, 2018. 
+MUELLER, J. P., MASSARON, L. Python Para Data Science Para Leigos . Rio 
+de Janeiro: Alta Books, 2020. 
+TAKAHASHI, S., INOUE, I. Guia Mangá de Análise de Regressão . São Paulo: 
+Novatec, 2019. 
+TAKAHASHI, S., INOUE, I. Guia Mangá de Estatística . São Paulo: Novatec, 
+2010. 
+VAJJATA, S., MAJUMDER, B., GUPTA, A., SURANA, H. Practical Natural 
+Language Processing: A Comprehensive Guide to Building Real-World NLP 
+Systems. O'Reilly Media, 2020. 
+ 
+ISW-038 – LABORATÓRIO DE DESENVOLVIMENTO MULTIPLATA FORMA– 
+SEMIPRESENCIAL – 60 Aulas Remotas e 20 Aulas Presen ciais (5 encontros 
+presenciais) 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empreender, exercer a liderança, identificar oport unidades de mudanças e projetar soluções 
+inovadoras baseadas em tecnologias da informação na s organizações. 
+• Todas as competências desenvolvidas, do primeiro a o sexto semestres, poderão ser 
+associadas no desenvolvimento do projeto desta disc iplina. 
+ 
+Objetivos de Aprendizagem:  
+• Implementar um software aplicando conhecimentos de  engenharia de 
+software, programação e gerência de projetos. 
+• Utilizar desenvolvimento front-end e back-end inte grando as aplicações 
+desktop, web e mobile em projetos que atendam aos r equisitos de 
+transparência das aplicações.  
+• Utilizar sensores IOT para captura de dados que se rão tratados nas 
+aplicações desenvolvidas. 
+Ementa :  Desenvolvimento de um software para Dispositivo Móvel, Web e 
+Desktop,, empregando: Técnicas de Sistemas Distribu ídos (Concorrência, 
+Openness, Escalabilidade), Protocolos de Mensageria  para intercomunicação de 
+sistemas, Técnicas para construção/uso de Brokers d e recepção de dados, 
+Técnicas para armazenamento de dados em grande esca la, Técnicas de 
+Mineração de Dados em tempo real (Data Streaming). Desenvolvimento Dirigido 
+a testes (TDD). Controle de versionamento. 
+Metodologia proposta: Aprendizagem Baseada em 
+Problemas/Projetos/Desafios. Emprego de metodologia  ágil para gestão de 
+projetos. Nesta disciplina o professor é responsáve l por desenvolver um projeto 
+integrando as disciplinas do primeiro ao sexto seme stre, seguindo o Manual de 
+Projetos Interdisciplinares expedido pela CESU. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. Apresentação d e Projetos, por meio de 
+Pitch para entregas intermediárias. Desafios de Pro gramação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para a entrega final uma apresentação dos res ultados obtidos.  Validação 
+do projeto Inclusão do resultado no Portfólio Digit al do aluno. Avaliação em pares 
+e Trabalhos Interdisciplinares. 
+Bibliografia Básica:    
+BROWN, E. Programação web com Node e Express: Beneficiando-se da stack 
+JavaScript.  São Paulo: Novatec, 2020. 
+DUCKETT, J. JAVASCRIPT e JQUERY: Desenvolvimento de Interfaces Web 
+Interativas . Rio de Janeiro: Alta Books, 2016 
+GRANT, W. UX Design: guia definitivo com as melhores práticas de UX. São  
+Paulo: Novatec, 2019. 
+DABIT, NADER; React Native in Action Developing iOS and Android a pps 
+with JavaScript,  Manning Publications, 2019. 
+CRUZ, F. SCRUM e Agile em Projetos Guia Completo: conquiste sua 
+certificação e aprenda a usar métodos ágeis no seu dia a dia. 2 ed. São Paulo: 
+Brasport, 2018. 
+LOPES, S. Aplicações mobile híbridas com Cordova e PhoneGap . São 
+Paulo: Casa do Código,2016. 
+NEIL, T. Padrões de design para aplicativos móveis . São Paulo: Novatec 
+2012. 
+SARAH. A. Desenvolvimento Profissional Multiplataforma para 
+Smartphone . Rio de Janeiro, 2012. 
+Bibliografia Complementar:   
+COULOURIS, G. Sistemas Distribuídos: Conceitos e Projetos.  Bookman, 
+2013. 
+MAGRANI, Eduardo. A Internet das Coisas . Rio de Janeiro: FGV, 2018. 
+MUELLER J. P. Segurança para desenvolvedores web . São Paulo: 
+Novatec,2016. 
+TANENBAUM, A. S. Sistemas Distribuídos Princípios e Paradigmas . 
+Pearson, 2017 . 
+SHENOY, A.; PRABHU A. Introdução ao SEO: Seu Guia Rápido às Práticas 
+Eficientes de SEO. São Paulo: Novatec, 2016. 
+SILVERMAN, R. E. Git : guia prático. São Paulo: Novatec, 2019. 
+ 
+ISW-039 - MINERAÇÃO DE DADOS – REMOTA – 80 Aulas  
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Propor soluções para Mineração de Dados, na quais as necessidades dos projetos e as 
+situações problema sejam atendidas (Back e Disposit ivos Móveis). 
+• Modelar e implantar processos de negócio, propor s oluções de TI a fim de aumentar a 
+competitividade das organizações. 
+ 
+Objetivos de Aprendizagem:  
+• Compreender e aplicar técnicas de Mineração de Dad os.  
+• Entender e aplicar as etapas de pré-processamento e limpeza dos dados 
+• Compreender e executar as fases da Mineração de Da dos.  
+• Compreender e aplicar algoritmos de aprendizagem n eural e estatísticos 
+em processos de classificação, agrupamento e associ ação de dados.   
+• Criar soluções para Mineração de Dados, utilizando  técnicas e 
+ferramentas de Inteligência Artificial.  
+• Criar e simular sistemas inteligentes dotados de a quisição/extração 
+automática de conhecimentos. 
+• Compreender e aplicar conceitos de aprendizado sup ervisionado e não 
+supervisionado. 
+Ementa : Conceitos Básicos; Descoberta de Conhecimento em Banco de Dados 
+(KDD); Pré -processamento de dados: Extract, Transform and Load  (ETL), 
+limpeza, transformação, redução de dimensionalidade ; Raspagem de dados; 
+Técnicas de amostragem; Balanceamento de classes (u ndersampling e 
+oversampling ); Técnicas de visualização de dados; Análise descr itiva de dados; 
+Análises de redes sociais; Business Intelligence . 
+Metodologia proposta:  Aulas expositivas. Desenvolvimento de Projetos 
+baseados em problemas reais. Emprego de metodologia  ágil para gestão de 
+projetos. Utilização de Ambientes de Virtualização e sala de aula invertida. 
+Instrumentos de avaliação : 
+Avaliação Formativa: Realização de pesquisas para p rática. Apresentação de 
+Projetos, por meio de Pitch para entregas intermedi árias. Análise e Resolução 
+de Problemas acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Apresentação de Projetos, por meio de 
+Pitch para entregas para a entrega final e validaçã o do projeto para inclusão no 
+Portifólio Digital do Aluno. Trabalhos Interdiscipl inares. 
+Bibliografia Básica 
+CASTRO, L.N. FERRARI, D.G. Introdução à Mineração de Dados: Conceitos 
+básicos, algoritmos e aplicações. São Paulo: Saraiv a, 2016 
+GRUS, JOEL. Data Science do Zero . Rio de Janeiro: Alta Books, 2016. 
+KUMAR, V., STEINBACH, M., TAN, P.N., Introdução ao Data Mining: 
+Mineração de Dados. Rio de Janeiro: Ciência Moderna , 2009. 
+RUSSELL, M.A. Mineração de Dados da Web Social: Análise de dados do 
+Facebook, Twitter, LinkedIn e outros sites de mídia  socia l.   São Paulo: Novatec, 
+2019 
+TAN, P.; STEINBACH, M; KUMAR, V. Introdução ao Data Mining . Rio de 
+Janeiro: Ciência Moderna, 2009 
+Bibliografia Complementar:   
+MCKINNEY, W. Python Para Análise de Dados: Tratamento de Dados com 
+Pandas, NumPy e IPython. São Paulo: Novatec, 2018. 
+MITCHELL, R. Web Scraping com Python: Coletando mais dados da web 
+moderna. São Paulo: Novatec, 2019. 
+SILVA, L. A; PERES, S. M., BOSCARIOLI C. Introdução à Mineração de 
+Dados: Com Aplicações em R.  Rio de Janeiro: Elsevier Bras il, 2017.  
+ 
+IQS-004 – QUALIDADE E TESTES DE SOFTWARE - REMOTA -  80 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empregar metodologias que visem garantir critérios  de qualidade no desenvolvimento de 
+uma solução computacional.   
+ 
+Objetivos de Aprendizagem:  
+• Aplicar conceitos, normas e modelos de qualidade d o processo e do 
+produto de software. 
+• Aplicar os conceitos de verificação e validação de  software e os princípios, 
+métodos, técnicas e ferramentas de apoio às ativida des de teste de 
+software. 
+Ementa : Fundamentos da Qualidade de Software. Qualidade d o Processo. 
+Normas e Modelos de Maturidade de Processos. Qualid ade do Produto. Normas 
+de Qualidade dos Produtos de Software. Garantia da Qualidade. Verificação de 
+Software. Validação de Software. Gerência da Qualid ade de Software. Métricas 
+da Qualidade de Software. Conceitos iniciais de ver ificação e validação de 
+software. Revisões de software. Princípios, estraté gias e fases de testes de 
+software. Processo de teste de software. Técnicas d e teste de software (Critérios 
+funcionais, estruturais e baseados em defeitos). Te stes Unitários. Automação 
+dos testes. 
+Metodologia proposta:  Aulas Expositivas. Aprendizagem Baseada em 
+Projetos/Problemas. Gamificação. Sala de Aula Inver tida. Estudo de Caso Real. 
+Utilização de simuladores e ambientes virtuais. 
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática. Análi se e Resolução de Problemas 
+acompanhado de rubrica de avaliação. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares. Desafios de 
+Programação e Trabalhos Interdisciplinares.  
+Bibliografia Básica:   
+KOSCIANSKI, A.;  PEZZE, M.; YOUNG, M. Teste e análise de software: 
+processos, princípios e técnicas. Porto Alegre: Boo kman, 2008 
+MALDONADO, J. C.; JINO, M.; DELAMARO, M. E.  Introdução ao Teste de 
+Software . Rio de Janeiro: Campus/Elsevier, 2007.  
+MUNIZ, Antonio et al. Jornada Ágil de Qualidade: aplique técnicas de qualidade 
+no início do ciclo para implantação contínua de sof tware. São Paulo: Brasport, 
+2020. 
+Bibliografia Complementar:   
+ANICHE, Mauricio. Testes automatizados de software: um guia prático. São 
+Paulo: Casa do Código, 2015.                                     
+MALDONADO, J. DELAMARO, M. VINCENZI, A.M. R. Automatização de teste 
+de software com ferramentas de software livre.  São Paulo: Gen LTC, 2018. 
+SOARES, M. S. Qualidade de software . 2. ed. São Paulo: Novatec, 
+2007.                                                                                         
+ 
+DDI-009 – ÉTICA PROFISSIONAL E PATENTE - REMOTA - 4 0 Aulas 
+ 
+Competências Profissionais desenvolvidas neste comp onente  
+• Empregar  os  aspectos éticos e legais relacionados aos direitos e propriedades intelectuais 
+inerentes à utilização e desenvolvimento de softwar e.    
+Objetivos de Aprendizagem:  
+• Analisar e desenvolver políticas, normas, contrato s e licitações que 
+contemplem os conceitos de propriedade intelectual,  direito autoral e Lei 
+de Software.  
+• Compreender conceitos de direito digital, em espec ial, Lei Geral de 
+Proteção de Dados e conceitos de privacidade.  
+• Empregar ética profissional durante o desenvolvime nto de aplicações, 
+sistemas e envolvimento nos projetos. 
+Ementa : Ética nas relações de trabalho. Propriedade Intel ectual: Propriedade 
+industrial, Direito Autoral, Proteção Legal. Direit o Digital: Conceito, Sociedade da 
+Informação, Princípios, Marco Civil da Internet. Co mpliance: Conceito, Funções, 
+Compliance  digital.  Lei Geral de Proteção de Dados: Fundamen tos, Princípios, 
+Direitos do titular, Tratamento de dados. Autoridad e Nacional de Proteção de 
+Dados (ANPD). Conselho Nacional da Proteção de Dado s Pessoais e da 
+Privacidade. Regulamento Geral da Proteção de Dados  (GDPR). 
+Metodologia proposta:  Estudos de caso reais; Projetos de pesquisas de 
+mercado; Sala de aula invertida.  
+Instrumentos de avaliação : 
+Avaliação Formativa: Desenvolver normas internas de  acordo com os projetos 
+estudados. Debates com relatórios de Estudos de Cas o. Atividade em Grupo 
+para abordar problemas encontrados em Leis Vigentes  e propor soluções. 
+Avaliação Somativa: Provas. Projetos. Avaliação em pares e Trabalhos 
+Interdisciplinares 
+Bibliografia Básica:   
+SILVEIRA, N. Propriedade intelectual: propriedade industrial, direito de autor, 
+software, cultivares, nome empresarial. 4 ed. Barue ri: Manole, 2011. 
+TEIXEIRA T. Direito Digital e processo eletrônico. 5 Ed São Paulo: Saraiva, 2020. 
+GARCIA R. L. et al. Lei Geral de Proteção de Dados (LGPD): Guia de 
+implantação, São Paulo: Blucher, 2020. 
+Bibliografia Complementar:   
+AFONSO, O. Direito autoral: conceitos essenciais . São Paulo: Manole, 2009. 
+CRESPO, M. X. F. Crimes digitais.  São Paulo: Saraiva, 2011. 
+FELIZARDO, A. R. Ética e direitos humanos: uma perspectiva profissional. 
+Curitiba: InterSaberes, 2012. 
+PAESANI, L. M. Direito de informática: comercialização e desenvolvimento 
+internacional do software. São Paulo: Atlas, 2015.  
+ 
+ING-088 – INGLÊS IV – REMOTA - 40 Aulas 
+ 
+Competências Profissionais desenvolvidas neste componente  
+• Desenvolver comunicação interpessoal, compreensão e interpretação elementar em 
+situações familiares cotidianas e profissionais que  envolvam expressão de ideias, 
+negociação, análise e elaboração de documentos, grá ficos, diagramas e símbolos em inglês.  
+ 
+Objetivos de Aprendizagem:  
+• Fazer uso de estratégias de leitura e compreensão oral para identificar os 
+pontos principais de textos orais e escritos de rel evância para a atuação 
+profissional. Fazer comparações.  
+• Redigir correspondências comerciais e outros docum entos. 
+• Desenvolver a entoação e o uso dos diferentes fone mas da língua. 
+Ementa : Desenvolvimento de habilidades comunicativas e es truturas léxico-
+gramaticais, com o objetivo de atuar adequadamente nos contextos pessoal, 
+acadêmico e profissional. Utilização de estratégias  de leitura e de compreensão 
+oral, bem como de estratégias de produção oral e es crita para compreender e 
+produzir textos orais e escritos.  
+Ênfase nas habilidades comunicativas necessárias pa ra o desenvolvimento de 
+tarefas relacionadas à atuação profissional. 
+Metodologia proposta:  Aulas expositivas dialogadas. Dramatização (role-p lay). 
+Atividades e trabalhos em pares/grupos. Gamificação .  
+Instrumentos de avaliação :  
+Avaliação Formativa: Exercícios para prática e prod ução oral e escrita ao longo 
+do curso (com feedback e plano de ações).  
+Avaliação Somativa: Provas ou trabalhos em grupo qu e avaliem tanto a escrita 
+e leitura, quanto a oralidade e compreensão auditiv a. Trabalhos 
+interdisciplinares. Diário de bordo. Autoavaliação / Rubricas 
+Bibliografia Básica:   
+HUGES, John et al. Business Result: Pre-intermediate. Student Book Pac k . 
+Oxford: New York: Oxford University Press, 2017. 
+IBBOTSON, Mark; STEPHENS, Bryan. Business Start-up: Student Book 2 . 
+Cambridge: Cambridge University Press, 2015. 
+OXENDEN, Clive et al. American English File: Student’s Book 2 . New York, 
+NY: Oxford University Press, 2018. 
+Bibliografia Complementar:  
+CARTER, Ronald.; NUNAN, David. Teaching English to Speakers of other 
+languages. Cambridge: Cambridge University Press, 2015. 
+CLARKE, Simon. In Company 3.0 Elementary Level Student’s Book Pack . 
+London, MacMillan Publishers Ltd, 2015.  
+LONGMAN. Dicionário Longman Escolar para Estudantes Brasilei ros . 
+Português-Inglês/Inglês-Português com CD-Rom. 2ª Ed ição: Atualizado com as 
+novas regras de Ortografia. São Paulo: Pearson Educ ation do Brasil, 2009. 
+MURPHY, Raymond. Essential Grammar in Use CD-Rom wi th answers. Fourth 
+Edition. Cambridge, 2015. 
+ 

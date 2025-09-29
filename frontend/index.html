@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG com Hugging Face - Interface</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1><i class="fas fa-robot"></i> RAG com Hugging Face</h1>
+                <p>Retrieval-Augmented Generation - Interface Web</p>
+                <div class="status-indicator">
+                    <span id="status-dot" class="status-dot offline"></span>
+                    <span id="status-text">Verificando conexão...</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Statistics Panel -->
+            <div class="stats-panel">
+                <div class="stat-card">
+                    <i class="fas fa-database"></i>
+                    <div class="stat-info">
+                        <span class="stat-number" id="doc-count">0</span>
+                        <span class="stat-label">Documentos Indexados</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-brain"></i>
+                    <div class="stat-info">
+                        <span class="stat-text" id="embedding-model">Carregando...</span>
+                        <span class="stat-label">Modelo de Embeddings</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-comments"></i>
+                    <div class="stat-info">
+                        <span class="stat-text" id="llm-model">Carregando...</span>
+                        <span class="stat-label">Modelo de Linguagem</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Two Column Layout -->
+            <div class="content-grid">
+                <!-- Left Column - Document Management -->
+                <div class="panel">
+                    <div class="panel-header">
+                        <h2><i class="fas fa-file-plus"></i> Gerenciar Documentos</h2>
+                    </div>
+                    <div class="panel-content">
+                        <div class="input-section">
+                            <label for="document-text">Adicionar Novo Documento:</label>
+                            <textarea 
+                                id="document-text" 
+                                placeholder="Digite o texto do documento que deseja indexar..."
+                                rows="4"
+                            ></textarea>
+                            <button id="add-document-btn" class="btn btn-primary">
+                                <i class="fas fa-plus"></i> Adicionar Documento
+                            </button>
+                        </div>
+
+                        <div class="documents-list">
+                            <h3>Documentos Indexados:</h3>
+                            <div id="documents-container" class="documents-container">
+                                <p class="empty-state">Nenhum documento indexado ainda.</p>
+                            </div>
+                        </div>
+
+                        <div class="quick-actions">
+                            <h3>Documentos de Exemplo:</h3>
+                            <button class="btn btn-secondary" onclick="addExampleDocs()">
+                                <i class="fas fa-magic"></i> Carregar Exemplos
+                            </button>
+                            <button class="btn btn-danger" onclick="clearAllDocuments()">
+                                <i class="fas fa-trash"></i> Limpar Tudo
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column - Chat Interface -->
+                <div class="panel">
+                    <div class="panel-header">
+                        <h2><i class="fas fa-comments"></i> Chat RAG</h2>
+                    </div>
+                    <div class="panel-content">
+                        <div class="chat-container">
+                            <div id="chat-messages" class="chat-messages">
+                                <div class="message bot-message">
+                                    <div class="message-avatar">
+                                        <i class="fas fa-robot"></i>
+                                    </div>
+                                    <div class="message-content">
+                                        <p>Olá! Sou seu assistente RAG. Adicione alguns documentos e faça perguntas sobre eles!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="chat-input-section">
+                            <div class="input-group">
+                                <input 
+                                    type="text" 
+                                    id="question-input" 
+                                    placeholder="Digite sua pergunta..."
+                                    maxlength="500"
+                                >
+                                <div class="input-controls">
+                                    <label for="top-k">Top-K:</label>
+                                    <select id="top-k">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3" selected>3</option>
+                                        <option value="5">5</option>
+                                    </select>
+                                    <button id="ask-question-btn" class="btn btn-primary">
+                                        <i class="fas fa-paper-plane"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Loading Overlay -->
+        <div id="loading-overlay" class="loading-overlay hidden">
+            <div class="loading-spinner">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Processando...</p>
+            </div>
+        </div>
+
+        <!-- Toast Notifications -->
+        <div id="toast-container" class="toast-container"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

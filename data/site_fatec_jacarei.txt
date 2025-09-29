@@ -1,0 +1,51 @@
+INFORMAÇÕES DO SITE OFICIAL - CURSO DSM FATEC JACAREI
+URL: https://fatecjacarei.cps.sp.gov.br/desenvolvimento-de-software-multiplataforma/
+
+PERFIL PROFISSIONAL:
+O egresso do Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma tem como perfil o profissional que projeta, desenvolve e testa software para múltiplas plataformas, aplicações em Nuvem e Internet das Coisas. Seleciona e aplica conceitos, métodos e tecnologias de Linguagens de Programação, Banco de Dados, Engenharia de Software, Segurança da Informação e Inteligência Artificial, propondo soluções tecnológicas. Realiza análise estatística de dados para apoiar a tomada de decisão. Coordena projetos e equipes de desenvolvimento de software.
+
+COMPETÊNCIAS PROFISSIONAIS:
+- Aplicar linguagens de programação Back-end e raciocínio lógico adequados para resolução de situações problema e ou desenvolvimento de projetos diversos;
+- Aplicar linguagens voltadas à Inteligência Artificial para atender as particularidades de desenvolvimento de projetos específicos;
+- Aplicar métricas de usabilidade e elaborar avaliações Heurísticas e Inspeção Semiótica;
+- Aplicar princípios de matemática e estatística na solução de problemas complexos;
+- Aplicar técnicas de Search Engine Optimization e estratégias e métodos para melhorar o posicionamento de páginas da Internet nos mecanismos de buscas;
+- Aplicar técnicas de Segurança da Informação na estruturação e desenvolvimento de banco de dados no atendimento das necessidades do projeto e na segurança dos dados;
+- Avaliar as abordagens de desenvolvimento híbrido, multiplataforma ou nativo e selecionar a melhor abordagem para atender a necessidade do cliente;
+- Construir páginas web utilizando linguagem de marcação de acordo com a necessidade do segmento ou projeto buscando recursos que sejam adaptáveis aos diversos tipos de dispositivos;
+- Desenvolver comunicação interpessoal, compreensão e interpretação elementar em situações familiares cotidianas e profissionais que envolvam expressão de ideias, negociação, análise e elaboração de documentos, gráficos, diagramas e símbolos em inglês;
+- Desenvolver objetos inteligentes, com capacidade de interação entre diversas tecnologias e compor o cenário de Internet das Coisas;
+- Desenvolver projetos de Banco de Dados utilizando diferentes abordagens de modelagem e implementação a fim de garantir a qualidade dos dados;
+- Desenvolver softwares baseados em metodologias e técnicas de programação que visam a segurança das aplicações e do usuário;
+- Desenvolver soluções de software e produtos empregando conceitos e técnicas de Design Digital e Visual;
+- Dimensionar e estruturar os recursos necessários para implantação de um site/e-commerce entre outros projetos;
+- Distinguir e empregar as diversas metodologias e conceitos de desenvolvimento de software nos projetos para atender as necessidades e resolver problemas, aplicando conceitos de lógica de programação;
+- Empreender, exercer a liderança, identificar oportunidades de mudanças e projetar soluções inovadoras baseadas em tecnologias da informação nas organizações;
+- Empregar as melhores práticas da Arquitetura da Informação no desenvolvimento de software para Dispositivos Móveis, Web e Desktop;
+- Empregar conceitos de Experiência do Usuário (UX) e Experiência do Consumidor (CX) para elaboração de perfil do usuário/consumidor, personas, jornada do usuário/consumidor e pontos de contato;
+- Empregar estruturas de dados adequadas para o desenvolvimento de software para atender a diversidade de projetos e plataformas;
+- Empregar fundamentos de sistemas operacionais no desenvolvimento de software;
+- Empregar linguagens de Programação Orientada a Objetos e utilizar Padrões de Projetos no desenvolvimento de aplicações;
+- Empregar metodologias que visem garantir critérios de qualidade no desenvolvimento de uma solução computacional;
+- Empregar os aspectos éticos e legais relacionados aos direitos e propriedades intelectuais inerentes à utilização e desenvolvimento de software;
+- Especificar os requisitos, projetar e documentar soluções de software baseadas no conhecimento apropriado de teorias, modelos e técnicas, observando as necessidades dos projetos;
+- Gerenciar projetos de sistemas de informação quanto aos objetivos, custos, recursos, escopo, riscos e prazos;
+- Identificar as necessidades dos projetos buscando adaptá-las aos mais diversos meios de hospedagem, Compartilhado, Cloud, Virtual Private Server, Colocation e Servidor Dedicado, utilizando o recurso adequado de cada um;
+- Identificar linguagens de programação Back-end para diversos tipos de desenvolvimento desktop, web ou mobile, mostrando compreensão da escolha de cada uma delas para adequação em projetos de diversas áreas;
+- Implantar sistemas nas diversas infraestruturas de Redes de Computadores, buscando a melhor performance;
+- Implementar sistemas interativos, utilizando os métodos e técnicas da Interação Humano Computador para Desktop, Web, Tablet, Smartphone e para internet das Coisas (IoT);
+- Modelar e implantar processos de negócio e propor soluções de TI a fim de aumentar a competitividade das organizações;
+- Planejar a melhor estratégia para documentação e versionamento dos softwares buscando as melhores práticas do mercado;
+- Propor soluções para Mineração de Dados, nas quais as necessidades dos projetos e as situações problema sejam atendidas (Mobile, Back-end);
+- Selecionar e empregar tecnologias de inteligência artificial aplicáveis ao desenvolvimento de aplicações para dispositivos móveis e web;
+- Utilizar adequadamente as técnicas de armazenamento e tratamento de dados não-estruturados, visando qualidade, manutenção e segurança;
+- Utilizar adequadamente os princípios de armazenamento e tratamento de dados a fim de suportar a recuperação de dados utilizados em aplicações;
+- Utilizar linguagens de programação orientada a objetos e raciocínio lógico adequados para resolução de situações problema e ou desenvolvimento de projetos diversos.
+
+INFORMAÇÕES INSTITUCIONAIS:
+- Faculdade de Tecnologia Prof. Francisco de Moura - FATEC Jacareí
+- Endereço: Av. Faria Lima, 155 - Jardim Santa Maria - Jacareí/SP - CEP: 12328-070
+- Telefone: (12) 3953-7926
+- Horário de funcionamento: Seg. a Sex. das 07h às 22h
+- Eixo tecnológico: Informação e Comunicação
+- Proposta de abertura: 2023 – Primeiro Semestre
